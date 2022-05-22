@@ -1719,10 +1719,6 @@
         "Header": {
           "value": "{Global Colors.Cool Gray.900}",
           "type": "color"
-        },
-        "Header-copy": {
-          "value": "{Global Colors.Cool Gray.900}",
-          "type": "color"
         }
       },
       "Primary": {
