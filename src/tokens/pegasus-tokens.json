@@ -1947,71 +1947,71 @@
       }
     }
   },
-  "Pegasus - Light": {
+  "color-lightmode": {
     "Interactive": {
       "Primary": {
         "Pressed": {
-          "value": "#41079f",
+          "value": "{Solid.Purple.700}",
           "type": "color"
         },
         "Hover": {
-          "value": "#5109c7",
-          "type": "color"
-        },
-        "Default": {
           "value": "{Solid.Purple.600}",
           "type": "color"
         },
+        "Default": {
+          "value": "{Solid.Purple.500}",
+          "type": "color"
+        },
         "Disabled": {
-          "value": "#b58cf8",
+          "value": "{Solid.Purple.200}",
           "type": "color"
         },
         "Line": {
-          "value": "#dcc8fd",
+          "value": "{Solid.Purple.100}",
           "type": "color"
         },
         "SubtleHover": {
-          "value": "#f3ecff",
+          "value": "{Solid.Purple.50}",
           "type": "color"
         }
       },
       "Secondary": {
         "Pressed": {
-          "value": "#41079f",
+          "value": "{Solid.Purple.700}",
           "type": "color"
         },
         "Hover": {
-          "value": "#5109c7",
+          "value": "{Solid.Purple.600}",
           "type": "color"
         },
         "Default": {
-          "value": "#610bef",
+          "value": "{Solid.Purple.500}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#b58cf8",
+          "value": "{Solid.Purple.200}",
           "type": "color"
         },
         "Line": {
-          "value": "#dcc8fd",
+          "value": "{Solid.Purple.100}",
           "type": "color"
         },
         "SubtleHover": {
-          "value": "#f3ecff",
+          "value": "{Solid.Purple.50}",
           "type": "color"
         }
       },
       "Tertiary": {
         "Pressed": {
-          "value": "#1a1b27",
+          "value": "{Solid.Gray.900}",
           "type": "color"
         },
         "Hover": {
-          "value": "#3d3e57",
+          "value": "{Solid.Gray.700}",
           "type": "color"
         },
         "Default": {
-          "value": "#5f617d",
+          "value": "{Solid.Gray.600}",
           "type": "color"
         },
         "Disabled": {
@@ -2061,7 +2061,7 @@
       },
       "Callout": {
         "Primary": {
-          "value": "linear-gradient(109deg, #a26bfa 0%, #4f06c6 100%)",
+          "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
           "type": "color"
         }
       }
@@ -2147,21 +2147,21 @@
           "type": "color"
         },
         "OverlayDark": {
-          "value": "#14142b99",
+          "value": "{Static.Solids.Black}99",
           "type": "color"
         },
         "OverlayLight": {
-          "value": "#eff0f699",
+          "value": "{Static.Solids.White}99",
           "type": "color"
         }
       },
       "Gradients": {
         "OverlayDark": {
-          "value": "linear-gradient(180deg, #00000000 0%, #000000 82.81%)",
+          "value": "linear-gradient(180deg, {Static.Solids.Black}00 0%, {Static.Solids.Black} 82.81%)",
           "type": "color"
         },
         "OverlayLight": {
-          "value": "linear-gradient(180deg, #ffffff00 0%, #ffffff 81.25%)",
+          "value": "linear-gradient(180deg, {Static.Solids.White}00 0%, {Static.Solids.White} 81.25%)",
           "type": "color"
         }
       }
@@ -2171,7 +2171,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "Pegasus - Light"
+      "color-lightmode"
     ]
   }
 }
