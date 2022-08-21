@@ -2099,7 +2099,7 @@
           "type": "color"
         },
         "DataVisual": {
-          "value": "linear-gradient(180deg,{Feedback.Success.Accent} 0%, {Feedback.Success.Accent}00 100%)",
+          "value": "linear-gradient(180deg, {Feedback.Success.Accent} 0%, {Feedback.Success.Accent}00 100%)",
           "type": "color"
         }
       },
