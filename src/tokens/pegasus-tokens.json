@@ -2069,69 +2069,69 @@
     "Feedback": {
       "Informative": {
         "Text": {
-          "value": "#0041ac",
+          "value": "{Solid.Cobalt.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "#005bd4",
+          "value": "{Solid.Cobalt.500}",
           "type": "color"
         },
         "Background": {
-          "value": "#e3feff",
+          "value": "{Solid.Cobalt.50}",
           "type": "color"
         },
         "DataVisual": {
-          "value": "linear-gradient(180deg, #217aff 0%, #5f2eea00 100%)",
+          "value": "linear-gradient(180deg, {Feedback.Informative.Accent} 0%, {Feedback.Informative.Accent}00 100%)",
           "type": "color"
         }
       },
       "Success": {
         "Text": {
-          "value": "#226e07",
+          "value": "{Solid.Lush.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "#48a411",
+          "value": "{Solid.Lush.500}",
           "type": "color"
         },
         "Background": {
-          "value": "#fbfef3",
+          "value": "{Solid.Lush.50}",
           "type": "color"
         },
         "DataVisual": {
-          "value": "linear-gradient(113deg, #18bb0c 0%, #18bb0c00 100%)",
+          "value": "linear-gradient(180deg,{Feedback.Success.Accent} 0%, {Feedback.Success.Accent}00 100%)",
           "type": "color"
         }
       },
       "Warning": {
         "Text": {
-          "value": "#946300",
+          "value": "{Solid.Yellow.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "#eaac30",
+          "value": "{Solid.Yellow.500}",
           "type": "color"
         },
         "Background": {
-          "value": "#fff8e9",
+          "value": "{Solid.Yellow.50}",
           "type": "color"
         }
       },
       "Error": {
         "Text": {
-          "value": "#931538",
+          "value": "{Solid.Red.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "#db3041",
+          "value": "{Solid.Red.500}",
           "type": "color"
         },
         "Background": {
-          "value": "#fff9f6",
+          "value": "{Solid.Red.50}",
           "type": "color"
         },
         "DataVisual": {
-          "value": "linear-gradient(116deg, #e61b00 0%, #e61b0000 100%)",
+          "value": "linear-gradient(180deg, {Feedback.Error.Accent} 0%, {Feedback.Error.Accent}00 100%)",
           "type": "color"
         }
       }
