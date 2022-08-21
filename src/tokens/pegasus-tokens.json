@@ -11,7 +11,7 @@
           "type": "color"
         },
         "50": {
-          "value": "#fbfbfe",
+          "value": "#f5f5ff",
           "type": "color"
         },
         "100": {
@@ -2059,7 +2059,7 @@
           "type": "color"
         },
         "BackgroundOffset": {
-          "value": "{Solid.Gray.100}",
+          "value": "{Solid.Gray.50}",
           "type": "color"
         },
         "Background": {
