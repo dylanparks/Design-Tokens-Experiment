@@ -2147,11 +2147,11 @@
     "Static": {
       "Solids": {
         "White": {
-          "value": "#ffffff",
+          "value": "{Solid.Gray.0}",
           "type": "color"
         },
         "Black": {
-          "value": "#0d0d0d",
+          "value": "{Solid.Gray.1000}",
           "type": "color"
         },
         "OverlayDark": {
@@ -2367,11 +2367,11 @@
     "Static": {
       "Solids": {
         "White": {
-          "value": "#ffffff",
+          "value": "{Solid.Gray.0}",
           "type": "color"
         },
         "Black": {
-          "value": "#0d0d0d",
+          "value": "{Solid.Gray.1000}",
           "type": "color"
         },
         "OverlayDark": {
