@@ -2072,6 +2072,12 @@
           "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
           "type": "color"
         }
+      },
+      "OnMedia": {
+        "Primary": {
+          "value": "{Solid.Gray.0}",
+          "type": "color"
+        }
       }
     },
     "Feedback": {
@@ -2144,32 +2150,28 @@
         }
       }
     },
-    "Static": {
-      "Solids": {
-        "White": {
-          "value": "{Solid.Gray.0}",
-          "type": "color"
-        },
+    "Overlay": {
+      "Solid": {
         "Black": {
           "value": "{Solid.Gray.1000}",
           "type": "color"
         },
         "OverlayDark": {
-          "value": "{Static.Solids.Black}99",
+          "value": "{Solid.Gray.1000}99",
           "type": "color"
         },
         "OverlayLight": {
-          "value": "{Static.Solids.White}99",
+          "value": "{Solid.Gray.0}99",
           "type": "color"
         }
       },
-      "Gradients": {
+      "Gradient": {
         "OverlayDark": {
-          "value": "linear-gradient(180deg, {Static.Solids.Black}00 0%, {Static.Solids.Black} 82.81%)",
+          "value": "linear-gradient(180deg, {Solid.Gray.1000}00 0%, {Solid.Gray.1000} 82.81%)",
           "type": "color"
         },
         "OverlayLight": {
-          "value": "linear-gradient(180deg, {Static.Solids.White}00 0%, {Static.Solids.White} 81.25%)",
+          "value": "linear-gradient(180deg, {Solid.Gray.0}00 0%, {Solid.Gray.0} 81.25%)",
           "type": "color"
         }
       }
@@ -2364,32 +2366,28 @@
         }
       }
     },
-    "Static": {
-      "Solids": {
-        "White": {
-          "value": "{Solid.Gray.0}",
-          "type": "color"
-        },
+    "Overlay": {
+      "Solid": {
         "Black": {
           "value": "{Solid.Gray.1000}",
           "type": "color"
         },
         "OverlayDark": {
-          "value": "{Static.Solids.Black}99",
+          "value": "{Solid.Gray.1000}99",
           "type": "color"
         },
         "OverlayLight": {
-          "value": "{Static.Solids.White}99",
+          "value": "{Solid.Gray.0}99",
           "type": "color"
         }
       },
-      "Gradients": {
+      "Gradient": {
         "OverlayDark": {
-          "value": "linear-gradient(180deg, {Static.Solids.Black}00 0%, {Static.Solids.Black} 82.81%)",
+          "value": "linear-gradient(180deg, {Solid.Gray.1000}00 0%, {Solid.Gray.1000} 82.81%)",
           "type": "color"
         },
         "OverlayLight": {
-          "value": "linear-gradient(180deg, {Static.Solids.White}00 0%, {Static.Solids.White} 81.25%)",
+          "value": "linear-gradient(180deg, {Solid.Gray.0}00 0%, {Solid.Gray.0} 81.25%)",
           "type": "color"
         }
       }
