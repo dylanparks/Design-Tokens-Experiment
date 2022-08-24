@@ -223,7 +223,7 @@
           "type": "color"
         }
       },
-      "Grass": {
+      "Avocado": {
         "50": {
           "value": "#fcfff3",
           "type": "color"
@@ -265,7 +265,7 @@
           "type": "color"
         }
       },
-      "Lush": {
+      "Grass": {
         "50": {
           "value": "#fbfef3",
           "type": "color"
@@ -2095,15 +2095,15 @@
       },
       "Success": {
         "Text": {
-          "value": "{Solid.Lush.800}",
+          "value": "{Solid.Grass.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Lush.500}",
+          "value": "{Solid.Grass.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Lush.50}",
+          "value": "{Solid.Grass.50}",
           "type": "color"
         },
         "DataVisual": {
@@ -2315,15 +2315,15 @@
       },
       "Success": {
         "Text": {
-          "value": "{Solid.Lush.300}",
+          "value": "{Solid.Grass.300}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Lush.600}",
+          "value": "{Solid.Grass.600}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Lush.900}",
+          "value": "{Solid.Grass.900}",
           "type": "color"
         },
         "DataVisual": {
