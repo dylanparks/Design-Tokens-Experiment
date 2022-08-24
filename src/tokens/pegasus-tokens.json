@@ -2294,6 +2294,12 @@
           "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
           "type": "color"
         }
+      },
+      "OnMedia": {
+        "Primary": {
+          "value": "{Solid.Gray.0}",
+          "type": "color"
+        }
       }
     },
     "Feedback": {
