@@ -728,180 +728,6 @@
         }
       }
     },
-    "Gradient": {
-      "1": {
-        "value": "linear-gradient(109deg, #ff4c4c 0%, #ff0000 47.4%, #cc0000 100%)",
-        "type": "color"
-      },
-      "2": {
-        "value": "linear-gradient(109deg, #ff14bc 0%, #e5051f 100%)",
-        "type": "color"
-      },
-      "3": {
-        "value": "linear-gradient(135deg, #f80179 0%, #640eb3 100%)",
-        "type": "color"
-      },
-      "4": {
-        "value": "linear-gradient(135deg, #fe7b59 0%, #fe497a 47.92%, #fd169c 100%)",
-        "type": "color"
-      },
-      "5": {
-        "value": "linear-gradient(132deg, #ffac66 0%, #ff7500 46.35%, #e56900 93.75%)",
-        "type": "color"
-      },
-      "6": {
-        "value": "linear-gradient(132deg, #a058ae 0%, #fc6c75 60.42%, #feaaaa 93.75%)",
-        "type": "color"
-      },
-      "7": {
-        "value": "linear-gradient(109deg, #945bf1 0%, #bb48bf 47.4%, #f67e4d 100%)",
-        "type": "color"
-      },
-      "8": {
-        "value": "linear-gradient(109deg, #ef3a86 0%, #7fa2f3 100%)",
-        "type": "color"
-      },
-      "9": {
-        "value": "linear-gradient(109deg, #fdfd9b 0%, #f9f906 46.35%, #c7c705 100%)",
-        "type": "color"
-      },
-      "10": {
-        "value": "linear-gradient(109deg, #ffd42a 0%, #fffc49 100%)",
-        "type": "color"
-      },
-      "11": {
-        "value": "linear-gradient(130deg, #f9ab34 0%, #ffe68e 100%)",
-        "type": "color"
-      },
-      "12": {
-        "value": "linear-gradient(130deg, #ffb628 0%, #ee4700 100%)",
-        "type": "color"
-      },
-      "13": {
-        "value": "linear-gradient(109deg, #99fe67 0%, #00994d 100%)",
-        "type": "color"
-      },
-      "14": {
-        "value": "linear-gradient(109deg, #52ee4f 0%, #059700 100%)",
-        "type": "color"
-      },
-      "15": {
-        "value": "linear-gradient(109deg, #81ed7e 0%, #006cd0 100%)",
-        "type": "color"
-      },
-      "16": {
-        "value": "linear-gradient(109deg, #c5ffaa 0%, #00bac6 100%)",
-        "type": "color"
-      },
-      "17": {
-        "value": "linear-gradient(109deg, #66ffdd 0%, #009999 100%)",
-        "type": "color"
-      },
-      "18": {
-        "value": "linear-gradient(109deg, #3f74d0 0%, #69c8de 47.4%, #a6e1cf 100%)",
-        "type": "color"
-      },
-      "19": {
-        "value": "linear-gradient(109deg, #402b67 0%, #31b694 100%)",
-        "type": "color"
-      },
-      "20": {
-        "value": "linear-gradient(109deg, #12abb9 0%, #16195d 100%)",
-        "type": "color"
-      },
-      "21": {
-        "value": "linear-gradient(109deg, #00baff 0%, #063ef9 100%)",
-        "type": "color"
-      },
-      "22": {
-        "value": "linear-gradient(109deg, #0f5ef9 0%, #2fece6 100%)",
-        "type": "color"
-      },
-      "23": {
-        "value": "linear-gradient(130deg, #0b62f5 0%, #013fc9 100%)",
-        "type": "color"
-      },
-      "24": {
-        "value": "linear-gradient(109deg, #04056b 0%, #6091f7 100%)",
-        "type": "color"
-      },
-      "25": {
-        "value": "linear-gradient(109deg, #a26bfa 0%, #4f06c6 100%)",
-        "type": "color"
-      },
-      "26": {
-        "value": "linear-gradient(109deg, #77c2f1 0%, #ffb4ed 100%)",
-        "type": "color"
-      },
-      "27": {
-        "value": "linear-gradient(109deg, #c566ff 0%, #5c00b9 100%)",
-        "type": "color"
-      },
-      "28": {
-        "value": "linear-gradient(109deg, #5f2eea 0%, #e359f9 100%)",
-        "type": "color"
-      },
-      "29": {
-        "value": "linear-gradient(109deg, #cf69fc 0%, #af05fa 48.44%, #8c04c8 100%)",
-        "type": "color"
-      },
-      "30": {
-        "value": "linear-gradient(109deg, #e6b2fd 0%, #9559ff 100%)",
-        "type": "color"
-      },
-      "32": {
-        "value": "linear-gradient(109deg, #f639d1 0%, #ab2eff 46.35%, #00c7ff 100%)",
-        "type": "color"
-      },
-      "33": {
-        "value": "linear-gradient(109deg, #ff66df 0%, #ff00c9 46.88%, #cc00a1 100%)",
-        "type": "color"
-      },
-      "34": {
-        "value": "linear-gradient(109deg, #ae5388 0%, #3d1052 100%)",
-        "type": "color"
-      },
-      "35": {
-        "value": "linear-gradient(109deg, #af45db 0%, #eb7b96 100%)",
-        "type": "color"
-      },
-      "36": {
-        "value": "linear-gradient(132deg, #e5a8af 0%, #be796a 100%)",
-        "type": "color"
-      },
-      "37": {
-        "value": "linear-gradient(109deg, #fe67b2 0%, #fe017f 48.44%, #e40173 98.44%)",
-        "type": "color"
-      },
-      "38": {
-        "value": "linear-gradient(109deg, #faceb8 0%, #e6afcc 32.81%, #c8bee5 65.63%, #acd1f1 100%)",
-        "type": "color"
-      },
-      "39": {
-        "value": "linear-gradient(109deg, #e3f7ff 0%, #ffd8c3 100%)",
-        "type": "color"
-      },
-      "40": {
-        "value": "linear-gradient(109deg, #fec790 0%, #f991f7 100%)",
-        "type": "color"
-      },
-      "41": {
-        "value": "linear-gradient(109deg, #a8a3a3 0%, #5c5757 100%)",
-        "type": "color"
-      },
-      "42": {
-        "value": "linear-gradient(109deg, #edf7f8 0%, #b5c7e1 100%)",
-        "type": "color"
-      },
-      "43": {
-        "value": "linear-gradient(109deg, #a8aabd 0%, #636682 100%)",
-        "type": "color"
-      },
-      "44": {
-        "value": "linear-gradient(109deg, #535664 0%, #202d3a 100%)",
-        "type": "color"
-      }
-    },
     "Transparent": {
       "SolidLight": {
         "10": {
@@ -926,6 +752,10 @@
         },
         "60": {
           "value": "#ffffff99",
+          "type": "color"
+        },
+        "70": {
+          "value": "#FFFFFFB3",
           "type": "color"
         },
         "80": {
@@ -962,6 +792,10 @@
           "value": "#00000099",
           "type": "color"
         },
+        "70": {
+          "value": "#000000B3",
+          "type": "color"
+        },
         "80": {
           "value": "#000000cc",
           "type": "color"
@@ -970,52 +804,16 @@
           "value": "#000000e6",
           "type": "color"
         }
-      },
-      "GradientLight": {
-        "Downward": {
-          "value": "linear-gradient(180deg, #ffffff 13.54%, #ffffff00 88.02%)",
-          "type": "color"
-        },
-        "Upward": {
-          "value": "linear-gradient(180deg, #ffffff00 14.58%, #ffffff 89.58%)",
-          "type": "color"
-        },
-        "Leftward": {
-          "value": "linear-gradient(270deg, #ffffff00 13.02%, #ffffff 87.5%)",
-          "type": "color"
-        },
-        "Rightward": {
-          "value": "linear-gradient(270deg, #ffffff 13.54%, #ffffff00 89.06%)",
-          "type": "color"
-        }
-      },
-      "GradientDark": {
-        "Rightward": {
-          "value": "linear-gradient(270deg, #000000 14.58%, #00000000 88.54%)",
-          "type": "color"
-        },
-        "Downward": {
-          "value": "linear-gradient(180deg, #000000 13.02%, #00000000 89.06%)",
-          "type": "color"
-        },
-        "Upward": {
-          "value": "linear-gradient(180deg, #00000000 13.02%, #000000 89.58%)",
-          "type": "color"
-        },
-        "Leftward": {
-          "value": "linear-gradient(270deg, #00000000 13.02%, #000000 89.06%)",
-          "type": "color"
-        }
       }
     },
     "Elevation 1": {
       "value": {
         "color": "#00000005",
         "type": "dropShadow",
-        "x": 0,
-        "y": 4,
-        "blur": 4,
-        "spread": 0
+        "x": "0",
+        "y": "4",
+        "blur": "4",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1023,10 +821,10 @@
       "value": {
         "color": "#00000005",
         "type": "dropShadow",
-        "x": 0,
-        "y": 6,
-        "blur": 8,
-        "spread": 0
+        "x": "0",
+        "y": "6",
+        "blur": "8",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1034,10 +832,10 @@
       "value": {
         "color": "#00000005",
         "type": "dropShadow",
-        "x": 0,
-        "y": 8,
-        "blur": 10,
-        "spread": 0
+        "x": "0",
+        "y": "8",
+        "blur": "10",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1045,10 +843,10 @@
       "value": {
         "color": "#00000008",
         "type": "dropShadow",
-        "x": 0,
-        "y": 10,
-        "blur": 15,
-        "spread": 0
+        "x": "0",
+        "y": "10",
+        "blur": "15",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1056,10 +854,10 @@
       "value": {
         "color": "#0000000a",
         "type": "dropShadow",
-        "x": 0,
-        "y": 15,
-        "blur": 20,
-        "spread": 0
+        "x": "0",
+        "y": "15",
+        "blur": "20",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1067,10 +865,10 @@
       "value": {
         "color": "#0000000d",
         "type": "dropShadow",
-        "x": 0,
-        "y": 25,
-        "blur": 30,
-        "spread": 0
+        "x": "0",
+        "y": "25",
+        "blur": "30",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1078,10 +876,10 @@
       "value": {
         "color": "#0000000f",
         "type": "dropShadow",
-        "x": 0,
-        "y": 35,
-        "blur": 40,
-        "spread": 0
+        "x": "0",
+        "y": "35",
+        "blur": "40",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1089,10 +887,10 @@
       "value": {
         "color": "#00000012",
         "type": "dropShadow",
-        "x": 0,
-        "y": 40,
-        "blur": 50,
-        "spread": 0
+        "x": "0",
+        "y": "40",
+        "blur": "50",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1100,10 +898,10 @@
       "value": {
         "color": "#00000014",
         "type": "dropShadow",
-        "x": 0,
-        "y": 50,
-        "blur": 60,
-        "spread": 0
+        "x": "0",
+        "y": "50",
+        "blur": "60",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -1111,10 +909,10 @@
       "value": {
         "color": "#00000014",
         "type": "dropShadow",
-        "x": 0,
-        "y": 60,
-        "blur": 70,
-        "spread": 0
+        "x": "0",
+        "y": "60",
+        "blur": "70",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -2034,6 +1832,32 @@
           "value": "{Solid.Gray.50}",
           "type": "color"
         }
+      },
+      "OnMedia": {
+        "Pressed": {
+          "value": "{Solid.Gray.0}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Transparent.SolidLight.80}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{Transparent.SolidLight.70}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Transparent.SolidLight.40}",
+          "type": "color"
+        },
+        "Line": {
+          "value": "{Transparent.SolidLight.30}",
+          "type": "color"
+        },
+        "SubtleHover": {
+          "value": "{Transparent.SolidLight.20}",
+          "type": "color"
+        }
       }
     },
     "Non-Interactive": {
@@ -2067,15 +1891,27 @@
           "type": "color"
         }
       },
-      "Callout": {
-        "Primary": {
-          "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
-          "type": "color"
-        }
-      },
       "OnMedia": {
         "Primary": {
           "value": "{Solid.Gray.0}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Transparent.SolidLight.80}",
+          "type": "color"
+        },
+        "Tertiary": {
+          "value": "{Transparent.SolidLight.60}",
+          "type": "color"
+        },
+        "OnPrimary": {
+          "value": "{Solid.Gray.1000}",
+          "type": "color"
+        }
+      },
+      "Callout": {
+        "Primary": {
+          "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
           "type": "color"
         }
       }
@@ -2152,10 +1988,6 @@
     },
     "Overlay": {
       "Solid": {
-        "Black": {
-          "value": "{Solid.Gray.1000}",
-          "type": "color"
-        },
         "OverlayDark": {
           "value": "{Solid.Gray.1000}99",
           "type": "color"
