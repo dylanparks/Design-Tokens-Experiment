@@ -1863,11 +1863,11 @@
           "type": "color"
         },
         "Disabled": {
-          "value": "{Transparent.SolidLight.40}",
+          "value": "{Transparent.SolidLight.30}",
           "type": "color"
         },
         "Line": {
-          "value": "{Transparent.SolidLight.30}",
+          "value": "{Transparent.SolidLight.20}",
           "type": "color"
         },
         "SubtleHover": {
