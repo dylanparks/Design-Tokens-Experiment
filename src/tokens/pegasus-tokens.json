@@ -1871,7 +1871,7 @@
           "type": "color"
         },
         "SubtleHover": {
-          "value": "{Transparent.SolidLight.20}",
+          "value": "{Transparent.SolidLight.10}",
           "type": "color"
         }
       }
@@ -1895,7 +1895,7 @@
           "type": "color"
         },
         "Line": {
-          "value": "{Solid.Gray.300}",
+          "value": "{Solid.Gray.200}",
           "type": "color"
         },
         "BackgroundOffset": {
