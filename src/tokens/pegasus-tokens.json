@@ -1909,6 +1909,10 @@
         "OnPrimary": {
           "value": "{Solid.Gray.0}",
           "type": "color"
+        },
+        "OnPrimaryWeak": {
+          "value": "{Transparent.SolidLight.50}",
+          "type": "color"
         }
       },
       "OnMedia": {
@@ -1942,6 +1946,10 @@
         },
         "OnPrimary": {
           "value": "{Solid.Gray.1000}",
+          "type": "color"
+        },
+        "OnPrimaryWeak": {
+          "value": "{Transparent.SolidDark.50}",
           "type": "color"
         }
       },
