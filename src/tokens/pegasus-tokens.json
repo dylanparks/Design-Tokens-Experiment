@@ -1859,7 +1859,7 @@
           "type": "color"
         },
         "Inactive": {
-          "value": "{Transparent.SolidLight.50}",
+          "value": "{Transparent.SolidLight.40}",
           "type": "color"
         },
         "Disabled": {
@@ -1905,14 +1905,6 @@
         "Background": {
           "value": "{Solid.Gray.0}",
           "type": "color"
-        },
-        "OnPrimary": {
-          "value": "{Solid.Gray.0}",
-          "type": "color"
-        },
-        "OnPrimaryWeak": {
-          "value": "{Transparent.SolidLight.50}",
-          "type": "color"
         }
       },
       "OnMedia": {
@@ -1943,12 +1935,22 @@
         "Background": {
           "value": "{Transparent.SolidLight.10}",
           "type": "color"
+        }
+      },
+      "Static": {
+        "OnDark": {
+          "value": "{Solid.Gray.0}",
+          "type": "color"
         },
-        "OnPrimary": {
+        "OnDarkDisabled": {
+          "value": "{Transparent.SolidLight.50}",
+          "type": "color"
+        },
+        "OnLight": {
           "value": "{Solid.Gray.1000}",
           "type": "color"
         },
-        "OnPrimaryWeak": {
+        "OnLightDisabled": {
           "value": "{Transparent.SolidDark.50}",
           "type": "color"
         }
