@@ -1756,7 +1756,7 @@
   "color-lightmode": {
     "Interactive": {
       "Primary": {
-        "Pressed": {
+        "Active": {
           "value": "{Solid.Purple.700}",
           "type": "color"
         },
@@ -1766,6 +1766,10 @@
         },
         "Default": {
           "value": "{Solid.Purple.500}",
+          "type": "color"
+        },
+        "Inactive": {
+          "value": "{Solid.Purple.300}",
           "type": "color"
         },
         "Disabled": {
@@ -1782,7 +1786,7 @@
         }
       },
       "Secondary": {
-        "Pressed": {
+        "Active": {
           "value": "{Solid.Purple.700}",
           "type": "color"
         },
@@ -1792,6 +1796,10 @@
         },
         "Default": {
           "value": "{Solid.Purple.500}",
+          "type": "color"
+        },
+        "Inactive": {
+          "value": "{Solid.Purple.300}",
           "type": "color"
         },
         "Disabled": {
@@ -1808,16 +1816,20 @@
         }
       },
       "Tertiary": {
-        "Pressed": {
+        "Active": {
           "value": "{Solid.Gray.900}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Solid.Gray.700}",
+          "value": "{Solid.Gray.800}",
           "type": "color"
         },
         "Default": {
-          "value": "{Solid.Gray.600}",
+          "value": "{Solid.Gray.700}",
+          "type": "color"
+        },
+        "Inactive": {
+          "value": "{Solid.Gray.500}",
           "type": "color"
         },
         "Disabled": {
@@ -1834,7 +1846,7 @@
         }
       },
       "OnMedia": {
-        "Pressed": {
+        "Active": {
           "value": "{Solid.Gray.0}",
           "type": "color"
         },
@@ -1844,6 +1856,10 @@
         },
         "Default": {
           "value": "{Transparent.SolidLight.70}",
+          "type": "color"
+        },
+        "Inactive": {
+          "value": "{Transparent.SolidLight.50}",
           "type": "color"
         },
         "Disabled": {
