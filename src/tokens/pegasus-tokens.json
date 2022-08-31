@@ -1904,6 +1904,22 @@
           "value": "{Transparent.SolidLight.60}",
           "type": "color"
         },
+        "Icon": {
+          "value": "{Transparent.SolidLight.40}",
+          "type": "color"
+        },
+        "Line": {
+          "value": "{Transparent.SolidLight.30}",
+          "type": "color"
+        },
+        "BackgroundOffset": {
+          "value": "{Transparent.SolidLight.20}",
+          "type": "color"
+        },
+        "Background": {
+          "value": "{Transparent.SolidLight.10}",
+          "type": "color"
+        },
         "OnPrimary": {
           "value": "{Solid.Gray.1000}",
           "type": "color"
