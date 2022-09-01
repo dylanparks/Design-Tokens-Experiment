@@ -1854,7 +1854,7 @@
           "value": "{Transparent.SolidLight.80}",
           "type": "color"
         },
-        "InactiveHover": {
+        "InactiveStrong": {
           "value": "{Transparent.SolidLight.60}",
           "type": "color"
         },
@@ -1973,7 +1973,7 @@
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Cobalt.50}",
+          "value": "{Solid.Cobalt.100}",
           "type": "color"
         },
         "DataVisual": {
@@ -1991,7 +1991,7 @@
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Grass.50}",
+          "value": "{Solid.Grass.100}",
           "type": "color"
         },
         "DataVisual": {
@@ -2009,7 +2009,7 @@
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Yellow.50}",
+          "value": "{Solid.Yellow.100}",
           "type": "color"
         }
       },
@@ -2023,7 +2023,7 @@
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Red.50}",
+          "value": "{Solid.Red.100}",
           "type": "color"
         },
         "DataVisual": {
