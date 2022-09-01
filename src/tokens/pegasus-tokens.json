@@ -2053,7 +2053,7 @@
           "type": "color"
         },
         "Disabled": {
-          "value": "{Solid.Purple.700}",
+          "value": "{Solid.Purple.700}aa",
           "type": "color"
         },
         "Subtle": {
@@ -2079,7 +2079,7 @@
           "type": "color"
         },
         "Disabled": {
-          "value": "{Solid.Purple.700}",
+          "value": "{Solid.Purple.700}aa",
           "type": "color"
         },
         "Subtle": {
