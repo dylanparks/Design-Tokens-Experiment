@@ -1933,7 +1933,7 @@
           "type": "color"
         },
         "Background": {
-          "value": "{Transparent.SolidLight.10}",
+          "value": "{Transparent.SolidDark.30}",
           "type": "color"
         },
         "PrimaryInvert": {
