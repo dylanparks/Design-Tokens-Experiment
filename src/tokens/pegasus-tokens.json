@@ -7,7 +7,7 @@
     "Solid": {
       "Gray": {
         "0": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "50": {
@@ -1935,23 +1935,17 @@
         "Background": {
           "value": "{Transparent.SolidLight.10}",
           "type": "color"
-        }
-      },
-      "Static": {
-        "OnDark": {
-          "value": "{Solid.Gray.0}",
-          "type": "color"
         },
-        "OnDarkDisabled": {
-          "value": "{Transparent.SolidLight.50}",
-          "type": "color"
-        },
-        "OnLight": {
+        "PrimaryInvert": {
           "value": "{Solid.Gray.1000}",
           "type": "color"
         },
-        "OnLightDisabled": {
+        "TertiaryInvert": {
           "value": "{Transparent.SolidDark.50}",
+          "type": "color"
+        },
+        "DataVisual": {
+          "value": "linear-gradient(180deg, {Solid.Gray.0} 0%, {Solid.Gray.0}00 100%)",
           "type": "color"
         }
       },
@@ -1965,15 +1959,15 @@
     "Feedback": {
       "Informative": {
         "Text": {
-          "value": "{Solid.Cobalt.800}",
+          "value": "{Solid.Sky.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Cobalt.500}",
+          "value": "{Solid.Sky.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Cobalt.100}",
+          "value": "{Solid.Sky.100}",
           "type": "color"
         },
         "DataVisual": {
