@@ -1820,12 +1820,12 @@
           "value": "{Solid.Gray.700}",
           "type": "color"
         },
-        "InactiveHover": {
-          "value": "{Solid.Gray.600}",
+        "InactiveStrong": {
+          "value": "{Solid.Gray.500}",
           "type": "color"
         },
         "Inactive": {
-          "value": "{Solid.Gray.500}",
+          "value": "{Solid.Gray.400}",
           "type": "color"
         },
         "Disabled": {
