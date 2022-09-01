@@ -2069,7 +2069,7 @@
           "type": "color"
         },
         "OnPrimary": {
-          "value": "{Solid.Gray.0}",
+          "value": "{Solid.Gray.1000}",
           "type": "color"
         }
       },
