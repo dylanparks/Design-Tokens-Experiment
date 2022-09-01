@@ -2040,7 +2040,7 @@
   "color-darkmode": {
     "Interactive": {
       "Primary": {
-        "Pressed": {
+        "Active": {
           "value": "{Solid.Purple.200}",
           "type": "color"
         },
@@ -2056,44 +2056,44 @@
           "value": "{Solid.Purple.700}",
           "type": "color"
         },
-        "Line": {
-          "value": "{Solid.Purple.700}",
+        "Subtle": {
+          "value": "{Solid.Purple.800}",
           "type": "color"
         },
-        "SubtleHover": {
+        "Offset": {
           "value": "{Solid.Purple.900}",
           "type": "color"
         }
       },
       "Secondary": {
-        "Pressed": {
-          "value": "{Solid.Purple.100}",
-          "type": "color"
-        },
-        "Hover": {
+        "Active": {
           "value": "{Solid.Purple.200}",
           "type": "color"
         },
-        "Default": {
+        "Hover": {
           "value": "{Solid.Purple.300}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{Solid.Purple.400}",
           "type": "color"
         },
         "Disabled": {
           "value": "{Solid.Purple.700}",
           "type": "color"
         },
-        "Line": {
-          "value": "{Solid.Purple.700}",
+        "Subtle": {
+          "value": "{Solid.Purple.800}",
           "type": "color"
         },
-        "SubtleHover": {
+        "Offset": {
           "value": "{Solid.Purple.900}",
           "type": "color"
         }
       },
       "Tertiary": {
-        "Pressed": {
-          "value": "{Solid.Gray.50}",
+        "Active": {
+          "value": "{Solid.Gray.0}",
           "type": "color"
         },
         "Hover": {
@@ -2101,19 +2101,61 @@
           "type": "color"
         },
         "Default": {
-          "value": "{Solid.Gray.400}",
+          "value": "{Solid.Gray.300}",
+          "type": "color"
+        },
+        "InactiveStrong": {
+          "value": "{Solid.Gray.500}",
+          "type": "color"
+        },
+        "Inactive": {
+          "value": "{Solid.Gray.600}",
           "type": "color"
         },
         "Disabled": {
           "value": "{Solid.Gray.700}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Solid.Gray.800}",
           "type": "color"
         },
-        "SubtleHover": {
+        "Offset": {
           "value": "{Solid.Gray.900}",
+          "type": "color"
+        }
+      },
+      "OnMedia": {
+        "Active": {
+          "value": "{Solid.Gray.0}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Transparent.SolidLight.90}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{Transparent.SolidLight.80}",
+          "type": "color"
+        },
+        "InactiveStrong": {
+          "value": "{Transparent.SolidLight.60}",
+          "type": "color"
+        },
+        "Inactive": {
+          "value": "{Transparent.SolidLight.40}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Transparent.SolidLight.30}",
+          "type": "color"
+        },
+        "Subtle": {
+          "value": "{Transparent.SolidLight.20}",
+          "type": "color"
+        },
+        "Offset": {
+          "value": "{Transparent.SolidLight.10}",
           "type": "color"
         }
       }
@@ -2121,26 +2163,26 @@
     "Non-Interactive": {
       "Neutral": {
         "Primary": {
-          "value": "{Solid.Gray.50}",
+          "value": "{Solid.Gray.0}",
           "type": "color"
         },
         "Secondary": {
-          "value": "{Solid.Gray.300}",
+          "value": "{Solid.Gray.200}",
           "type": "color"
         },
         "Tertiary": {
-          "value": "{Solid.Gray.400}",
+          "value": "{Solid.Gray.300}",
           "type": "color"
         },
         "Icon": {
           "value": "{Solid.Gray.600}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Solid.Gray.700}",
           "type": "color"
         },
-        "BackgroundOffset": {
+        "Offset": {
           "value": "{Solid.Gray.900}",
           "type": "color"
         },
@@ -2149,15 +2191,51 @@
           "type": "color"
         }
       },
-      "Callout": {
-        "Primary": {
-          "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
-          "type": "color"
-        }
-      },
       "OnMedia": {
         "Primary": {
           "value": "{Solid.Gray.0}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Transparent.SolidLight.80}",
+          "type": "color"
+        },
+        "Tertiary": {
+          "value": "{Transparent.SolidLight.60}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Transparent.SolidLight.40}",
+          "type": "color"
+        },
+        "Subtle": {
+          "value": "{Transparent.SolidLight.30}",
+          "type": "color"
+        },
+        "Offset": {
+          "value": "{Transparent.SolidLight.20}",
+          "type": "color"
+        },
+        "Background": {
+          "value": "{Transparent.SolidDark.30}",
+          "type": "color"
+        },
+        "PrimaryInvert": {
+          "value": "{Solid.Gray.1000}",
+          "type": "color"
+        },
+        "TertiaryInvert": {
+          "value": "{Transparent.SolidDark.50}",
+          "type": "color"
+        },
+        "DataVisual": {
+          "value": "linear-gradient(180deg, {Solid.Gray.0} 0%, {Solid.Gray.0}00 100%)",
+          "type": "color"
+        }
+      },
+      "Callout": {
+        "Primary": {
+          "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
           "type": "color"
         }
       }
@@ -2165,15 +2243,15 @@
     "Feedback": {
       "Informative": {
         "Text": {
-          "value": "{Solid.Cobalt.300}",
+          "value": "{Solid.Sky.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Cobalt.500}",
+          "value": "{Solid.Sky.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Cobalt.900}",
+          "value": "{Solid.Sky.900}",
           "type": "color"
         },
         "DataVisual": {
@@ -2183,11 +2261,11 @@
       },
       "Success": {
         "Text": {
-          "value": "{Solid.Grass.300}",
+          "value": "{Solid.Grass.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Grass.600}",
+          "value": "{Solid.Grass.500}",
           "type": "color"
         },
         "Background": {
@@ -2201,11 +2279,11 @@
       },
       "Warning": {
         "Text": {
-          "value": "{Solid.Yellow.300}",
+          "value": "{Solid.Yellow.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Yellow.600}",
+          "value": "{Solid.Yellow.500}",
           "type": "color"
         },
         "Background": {
@@ -2215,11 +2293,11 @@
       },
       "Error": {
         "Text": {
-          "value": "{Solid.Red.300}",
+          "value": "{Solid.Red.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Red.600}",
+          "value": "{Solid.Red.500}",
           "type": "color"
         },
         "Background": {
@@ -2232,30 +2310,14 @@
         }
       }
     },
-    "Overlay": {
-      "Solid": {
-        "Black": {
-          "value": "{Solid.Gray.1000}",
-          "type": "color"
-        },
-        "OverlayDark": {
-          "value": "{Solid.Gray.1000}99",
-          "type": "color"
-        },
-        "OverlayLight": {
-          "value": "{Solid.Gray.0}99",
-          "type": "color"
-        }
+    "Effects": {
+      "OverlaySolid": {
+        "value": "{Solid.Gray.1000}99",
+        "type": "color"
       },
-      "Gradient": {
-        "OverlayDark": {
-          "value": "linear-gradient(180deg, {Solid.Gray.1000}00 0%, {Solid.Gray.1000} 82.81%)",
-          "type": "color"
-        },
-        "OverlayLight": {
-          "value": "linear-gradient(180deg, {Solid.Gray.0}00 0%, {Solid.Gray.0} 81.25%)",
-          "type": "color"
-        }
+      "OverlayGradient": {
+        "value": "linear-gradient(180deg, {Solid.Gray.1000}00 0%, {Solid.Gray.1000} 82.81%)",
+        "type": "color"
       }
     }
   },
