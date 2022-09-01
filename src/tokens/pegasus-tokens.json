@@ -1772,11 +1772,11 @@
           "value": "{Solid.Purple.200}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Solid.Purple.100}",
           "type": "color"
         },
-        "SubtleHover": {
+        "Offset": {
           "value": "{Solid.Purple.50}",
           "type": "color"
         }
@@ -1798,11 +1798,11 @@
           "value": "{Solid.Purple.200}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Solid.Purple.100}",
           "type": "color"
         },
-        "SubtleHover": {
+        "Offset": {
           "value": "{Solid.Purple.50}",
           "type": "color"
         }
@@ -1832,11 +1832,11 @@
           "value": "{Solid.Gray.300}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Solid.Gray.200}",
           "type": "color"
         },
-        "SubtleHover": {
+        "Offset": {
           "value": "{Solid.Gray.50}",
           "type": "color"
         }
@@ -1866,11 +1866,11 @@
           "value": "{Transparent.SolidLight.30}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Transparent.SolidLight.20}",
           "type": "color"
         },
-        "SubtleHover": {
+        "Offset": {
           "value": "{Transparent.SolidLight.10}",
           "type": "color"
         }
@@ -1894,11 +1894,11 @@
           "value": "{Solid.Gray.400}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Solid.Gray.200}",
           "type": "color"
         },
-        "BackgroundOffset": {
+        "Offset": {
           "value": "{Solid.Gray.50}",
           "type": "color"
         },
@@ -1924,11 +1924,11 @@
           "value": "{Transparent.SolidLight.40}",
           "type": "color"
         },
-        "Line": {
+        "Subtle": {
           "value": "{Transparent.SolidLight.30}",
           "type": "color"
         },
-        "BackgroundOffset": {
+        "Offset": {
           "value": "{Transparent.SolidLight.20}",
           "type": "color"
         },
