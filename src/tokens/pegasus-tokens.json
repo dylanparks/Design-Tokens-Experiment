@@ -1779,10 +1779,6 @@
         "Offset": {
           "value": "{Solid.Purple.50}",
           "type": "color"
-        },
-        "OnPrimary": {
-          "value": "{Solid.Gray.0}",
-          "type": "color"
         }
       },
       "Secondary": {
@@ -2066,10 +2062,6 @@
         },
         "Offset": {
           "value": "{Solid.Purple.900}",
-          "type": "color"
-        },
-        "OnPrimary": {
-          "value": "{Solid.Gray.1000}",
           "type": "color"
         }
       },
