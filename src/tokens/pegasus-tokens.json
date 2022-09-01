@@ -1821,11 +1821,11 @@
           "type": "color"
         },
         "InactiveHover": {
-          "value": "{Solid.Gray.500}",
+          "value": "{Solid.Gray.600}",
           "type": "color"
         },
         "Inactive": {
-          "value": "{Solid.Gray.400}",
+          "value": "{Solid.Gray.500}",
           "type": "color"
         },
         "Disabled": {
