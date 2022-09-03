@@ -891,7 +891,7 @@
           "type": "color"
         },
         "900": {
-          "value": "#6F0331",
+          "value": "#5B0027",
           "type": "color"
         }
       },
@@ -933,49 +933,7 @@
           "type": "color"
         },
         "900": {
-          "value": "#700014",
-          "type": "color"
-        }
-      },
-      "Crimson": {
-        "50": {
-          "value": "#fff9f6",
-          "type": "color"
-        },
-        "100": {
-          "value": "#ffe5d9",
-          "type": "color"
-        },
-        "200": {
-          "value": "#ffc6b3",
-          "type": "color"
-        },
-        "300": {
-          "value": "#ff9f8d",
-          "type": "color"
-        },
-        "400": {
-          "value": "#ff7b71",
-          "type": "color"
-        },
-        "500": {
-          "value": "#ff4245",
-          "type": "color"
-        },
-        "600": {
-          "value": "#db3041",
-          "type": "color"
-        },
-        "700": {
-          "value": "#b7213d",
-          "type": "color"
-        },
-        "800": {
-          "value": "#931538",
-          "type": "color"
-        },
-        "900": {
-          "value": "#7a0c34",
+          "value": "#620012",
           "type": "color"
         }
       }
