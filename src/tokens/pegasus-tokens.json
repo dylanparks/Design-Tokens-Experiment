@@ -55,7 +55,7 @@
           "type": "color"
         }
       },
-      "Red": {
+      "Ruby": {
         "50": {
           "value": "#fff9f6",
           "type": "color"
@@ -181,7 +181,7 @@
           "type": "color"
         }
       },
-      "Yellow": {
+      "Gold": {
         "50": {
           "value": "#fffef5",
           "type": "color"
@@ -1995,29 +1995,29 @@
       },
       "Warning": {
         "Text": {
-          "value": "{Solid.Yellow.800}",
+          "value": "{Solid.Gold.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Yellow.500}",
+          "value": "{Solid.Gold.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Yellow.100}",
+          "value": "{Solid.Gold.100}",
           "type": "color"
         }
       },
       "Error": {
         "Text": {
-          "value": "{Solid.Red.800}",
+          "value": "{Solid.Ruby.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Red.500}",
+          "value": "{Solid.Ruby.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Red.100}",
+          "value": "{Solid.Ruby.100}",
           "type": "color"
         },
         "DataVisual": {
