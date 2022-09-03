@@ -727,6 +727,48 @@
           "type": "color"
         }
       },
+      "Blue": {
+        "50": {
+          "value": "#F8FBFF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#DAE9FF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#AFCFFF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#86B6FF",
+          "type": "color"
+        },
+        "400": {
+          "value": "#5B9DFF",
+          "type": "color"
+        },
+        "500": {
+          "value": "#1F78FF",
+          "type": "color"
+        },
+        "600": {
+          "value": "#085FE3",
+          "type": "color"
+        },
+        "700": {
+          "value": "#094FB6",
+          "type": "color"
+        },
+        "800": {
+          "value": "#013A8F",
+          "type": "color"
+        },
+        "900": {
+          "value": "#002C6C",
+          "type": "color"
+        }
+      },
       "Cobalt": {
         "50": {
           "value": "#F9F9FF",
