@@ -895,6 +895,48 @@
           "type": "color"
         }
       },
+      "Grape": {
+        "50": {
+          "value": "#F9F2FF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#E7CEFF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#CB97FF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#B163FF",
+          "type": "color"
+        },
+        "400": {
+          "value": "#9B37FF",
+          "type": "color"
+        },
+        "500": {
+          "value": "#7D0BEF",
+          "type": "color"
+        },
+        "600": {
+          "value": "#6800D0",
+          "type": "color"
+        },
+        "700": {
+          "value": "#5100A3",
+          "type": "color"
+        },
+        "800": {
+          "value": "#3D007A",
+          "type": "color"
+        },
+        "900": {
+          "value": "#290053",
+          "type": "color"
+        }
+      },
       "Violet": {
         "50": {
           "value": "#fff2ff",
