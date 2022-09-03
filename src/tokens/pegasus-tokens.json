@@ -475,6 +475,48 @@
           "type": "color"
         }
       },
+      "Cucumber": {
+        "50": {
+          "value": "#F4FFF5",
+          "type": "color"
+        },
+        "100": {
+          "value": "#E0FFE1",
+          "type": "color"
+        },
+        "200": {
+          "value": "#C1FFC4",
+          "type": "color"
+        },
+        "300": {
+          "value": "#8EF492",
+          "type": "color"
+        },
+        "400": {
+          "value": "#63E768",
+          "type": "color"
+        },
+        "500": {
+          "value": "#2DC233",
+          "type": "color"
+        },
+        "600": {
+          "value": "#16A825",
+          "type": "color"
+        },
+        "700": {
+          "value": "#028910",
+          "type": "color"
+        },
+        "800": {
+          "value": "#006B0B",
+          "type": "color"
+        },
+        "900": {
+          "value": "#004E08",
+          "type": "color"
+        }
+      },
       "Mint": {
         "50": {
           "value": "#f3fff5",
@@ -517,25 +559,67 @@
           "type": "color"
         }
       },
-      "Turquoise": {
+      "Seafoam": {
         "50": {
-          "value": "#f2fffd",
+          "value": "#F3FFFB",
           "type": "color"
         },
         "100": {
-          "value": "#cffffc",
+          "value": "#DAFFF1",
           "type": "color"
         },
         "200": {
-          "value": "#94fff9",
+          "value": "#ADFFE2",
           "type": "color"
         },
         "300": {
-          "value": "#47f9ee",
+          "value": "#66FFC8",
           "type": "color"
         },
         "400": {
-          "value": "#0decde",
+          "value": "#46EDB1",
+          "type": "color"
+        },
+        "500": {
+          "value": "#2FD79A",
+          "type": "color"
+        },
+        "600": {
+          "value": "#1BB980",
+          "type": "color"
+        },
+        "700": {
+          "value": "#0A8F5F",
+          "type": "color"
+        },
+        "800": {
+          "value": "#006943",
+          "type": "color"
+        },
+        "900": {
+          "value": "#004F32",
+          "type": "color"
+        }
+      },
+      "Aqua": {
+        "50": {
+          "value": "#F2FFFD",
+          "type": "color"
+        },
+        "100": {
+          "value": "#CFFFFC",
+          "type": "color"
+        },
+        "200": {
+          "value": "#94FFF9",
+          "type": "color"
+        },
+        "300": {
+          "value": "#47F9EE",
+          "type": "color"
+        },
+        "400": {
+          "value": "#0DECDE",
           "type": "color"
         },
         "500": {
@@ -547,7 +631,7 @@
           "type": "color"
         },
         "700": {
-          "value": "#009090",
+          "value": "#009191",
           "type": "color"
         },
         "800": {
@@ -559,7 +643,7 @@
           "type": "color"
         }
       },
-      "Aqua": {
+      "Sky": {
         "50": {
           "value": "#f2feff",
           "type": "color"
@@ -601,7 +685,7 @@
           "type": "color"
         }
       },
-      "Sky": {
+      "Azure": {
         "50": {
           "value": "#f2fdff",
           "type": "color"
@@ -645,7 +729,7 @@
       },
       "Cobalt": {
         "50": {
-          "value": "#f0f1fb",
+          "value": "#F9F9FF",
           "type": "color"
         },
         "100": {
@@ -665,11 +749,11 @@
           "type": "color"
         },
         "500": {
-          "value": "#2C59FF",
+          "value": "#2C4DFF",
           "type": "color"
         },
         "600": {
-          "value": "#103CDB",
+          "value": "#1737E0",
           "type": "color"
         },
         "700": {
@@ -677,11 +761,11 @@
           "type": "color"
         },
         "800": {
-          "value": "#04218A",
+          "value": "#0023A1",
           "type": "color"
         },
         "900": {
-          "value": "#001665",
+          "value": "#021C79",
           "type": "color"
         }
       },
@@ -2187,15 +2271,15 @@
       },
       "Success": {
         "Text": {
-          "value": "{Solid.Grass.800}",
+          "value": "{Solid.Cucumber.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Grass.500}",
+          "value": "{Solid.Cucumber.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Grass.100}",
+          "value": "{Solid.Cucumber.100}",
           "type": "color"
         },
         "DataVisual": {
@@ -2471,15 +2555,15 @@
       },
       "Success": {
         "Text": {
-          "value": "{Solid.Grass.200}",
+          "value": "{Solid.Cucumber.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Grass.500}",
+          "value": "{Solid.Cucumber.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Grass.900}",
+          "value": "{Solid.Cucumber.900}",
           "type": "color"
         },
         "DataVisual": {
