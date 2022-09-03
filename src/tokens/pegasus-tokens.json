@@ -855,47 +855,89 @@
       },
       "Fuchsia": {
         "50": {
-          "value": "#fff5fa",
+          "value": "#FFF6FA",
           "type": "color"
         },
         "100": {
-          "value": "#ffd5df",
+          "value": "#FFDFEC",
           "type": "color"
         },
         "200": {
-          "value": "#ffacc0",
+          "value": "#FFB7D5",
           "type": "color"
         },
         "300": {
-          "value": "#ff82a8",
+          "value": "#FF96C2",
           "type": "color"
         },
         "400": {
-          "value": "#ff639b",
+          "value": "#FF60A3",
           "type": "color"
         },
         "500": {
-          "value": "#ff307b",
+          "value": "#FF3087",
           "type": "color"
         },
         "600": {
-          "value": "#db2362",
+          "value": "#D81668",
           "type": "color"
         },
         "700": {
-          "value": "#a81656",
+          "value": "#AE1757",
           "type": "color"
         },
         "800": {
-          "value": "#890d50",
+          "value": "#8E0D44",
           "type": "color"
         },
         "900": {
-          "value": "#6b0244",
+          "value": "#6F0331",
           "type": "color"
         }
       },
       "Ruby": {
+        "50": {
+          "value": "#FFF9FA",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FFE5EA",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FFC2CD",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FF98AA",
+          "type": "color"
+        },
+        "400": {
+          "value": "#FF6A85",
+          "type": "color"
+        },
+        "500": {
+          "value": "#FF3B5E",
+          "type": "color"
+        },
+        "600": {
+          "value": "#D90E32",
+          "type": "color"
+        },
+        "700": {
+          "value": "#AF0826",
+          "type": "color"
+        },
+        "800": {
+          "value": "#93011B",
+          "type": "color"
+        },
+        "900": {
+          "value": "#700014",
+          "type": "color"
+        }
+      },
+      "Crimson": {
         "50": {
           "value": "#fff9f6",
           "type": "color"
@@ -2169,15 +2211,15 @@
     "Feedback": {
       "Informative": {
         "Text": {
-          "value": "{Solid.Sky.800}",
+          "value": "{Solid.Cobalt.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Sky.500}",
+          "value": "{Solid.Cobalt.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Sky.100}",
+          "value": "{Solid.Cobalt.100}",
           "type": "color"
         },
         "DataVisual": {
@@ -2205,15 +2247,15 @@
       },
       "Warning": {
         "Text": {
-          "value": "{Solid.Gold.800}",
+          "value": "{Solid.Honey.800}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Gold.500}",
+          "value": "{Solid.Honey.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Gold.100}",
+          "value": "{Solid.Honey.100}",
           "type": "color"
         }
       },
@@ -2453,15 +2495,15 @@
     "Feedback": {
       "Informative": {
         "Text": {
-          "value": "{Solid.Sky.200}",
+          "value": "{Solid.Cobalt.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Sky.500}",
+          "value": "{Solid.Cobalt.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Sky.900}",
+          "value": "{Solid.Cobalt.900}",
           "type": "color"
         },
         "DataVisual": {
@@ -2489,29 +2531,29 @@
       },
       "Warning": {
         "Text": {
-          "value": "{Solid.Yellow.200}",
+          "value": "{Solid.Honey.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Yellow.500}",
+          "value": "{Solid.Honey.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Yellow.900}",
+          "value": "{Solid.Honey.900}",
           "type": "color"
         }
       },
       "Error": {
         "Text": {
-          "value": "{Solid.Red.200}",
+          "value": "{Solid.Ruby.200}",
           "type": "color"
         },
         "Accent": {
-          "value": "{Solid.Red.500}",
+          "value": "{Solid.Ruby.500}",
           "type": "color"
         },
         "Background": {
-          "value": "{Solid.Red.900}",
+          "value": "{Solid.Ruby.900}",
           "type": "color"
         },
         "DataVisual": {
