@@ -97,6 +97,48 @@
           "type": "color"
         }
       },
+      "Coral": {
+        "50": {
+          "value": "#FFF4F2",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FFE3DF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FFC7BF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FFA195",
+          "type": "color"
+        },
+        "400": {
+          "value": "#FF725F",
+          "type": "color"
+        },
+        "500": {
+          "value": "#FF371C",
+          "type": "color"
+        },
+        "600": {
+          "value": "#D71A00",
+          "type": "color"
+        },
+        "700": {
+          "value": "#AC1501",
+          "type": "color"
+        },
+        "800": {
+          "value": "#740E00",
+          "type": "color"
+        },
+        "900": {
+          "value": "#4E0900",
+          "type": "color"
+        }
+      },
       "Persimmon": {
         "50": {
           "value": "#FFF5EF",
@@ -2550,6 +2592,20 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      }
+    },
+    "fontFamily": {
+      "DisplayPrimary": {
+        "value": "{fontFamilies.poppins}",
+        "type": "fontFamilies"
+      },
+      "DisplaySecondary": {
+        "value": "{fontFamilies.poppins}",
+        "type": "fontFamilies"
+      },
+      "Body": {
+        "value": "{fontFamilies.poppins}",
+        "type": "fontFamilies"
       }
     }
   },
