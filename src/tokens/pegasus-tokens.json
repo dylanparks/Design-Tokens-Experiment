@@ -519,43 +519,43 @@
       },
       "Mint": {
         "50": {
-          "value": "#f3fff5",
+          "value": "#F3FFF9",
           "type": "color"
         },
         "100": {
-          "value": "#DBFFE1",
+          "value": "#DBFFED",
           "type": "color"
         },
         "200": {
-          "value": "#ABFFC1",
+          "value": "#B1FFDA",
           "type": "color"
         },
         "300": {
-          "value": "#7AF5A7",
+          "value": "#68FFB6",
           "type": "color"
         },
         "400": {
-          "value": "#46ed94",
+          "value": "#37EB94",
           "type": "color"
         },
         "500": {
-          "value": "#07D37B",
+          "value": "#03D670",
           "type": "color"
         },
         "600": {
-          "value": "#00B667",
+          "value": "#00AF5B",
           "type": "color"
         },
         "700": {
-          "value": "#008D50",
+          "value": "#008C48",
           "type": "color"
         },
         "800": {
-          "value": "#006B3D",
+          "value": "#006836",
           "type": "color"
         },
         "900": {
-          "value": "#004929",
+          "value": "#004121",
           "type": "color"
         }
       },
