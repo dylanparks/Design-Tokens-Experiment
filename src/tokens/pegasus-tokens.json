@@ -1403,7 +1403,7 @@
       }
     }
   },
-  "color-PegaLight": {
+  "color-Lightmode": {
     "Interactive": {
       "Primary": {
         "Active": {
@@ -1750,7 +1750,7 @@
       }
     }
   },
-  "color-PegaDark": {
+  "color-Darkmode": {
     "Interactive": {
       "Primary": {
         "Active": {
@@ -1823,37 +1823,37 @@
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Hover": {
-          "value": "{Solid.Gray.200}",
+          "value": "{Solid.Slate.200}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Default": {
-          "value": "{Solid.Gray.300}",
+          "value": "{Solid.Slate.300}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "InactiveStrong": {
-          "value": "{Solid.Gray.500}",
+          "value": "{Solid.Slate.500}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Inactive": {
-          "value": "{Solid.Gray.600}",
+          "value": "{Solid.Slate.600}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Disabled": {
-          "value": "{Solid.Gray.700}",
+          "value": "{Solid.Slate.700}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Subtle": {
-          "value": "{Solid.Gray.800}",
+          "value": "{Solid.Slate.800}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Offset": {
-          "value": "{Solid.Gray.900}",
+          "value": "{Solid.Slate.900}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         }
@@ -1909,27 +1909,27 @@
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Secondary": {
-          "value": "{Solid.Gray.200}",
+          "value": "{Solid.Slate.200}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Tertiary": {
-          "value": "{Solid.Gray.300}",
+          "value": "{Solid.Slate.300}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Icon": {
-          "value": "{Solid.Gray.600}",
+          "value": "{Solid.Slate.600}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Subtle": {
-          "value": "{Solid.Gray.700}",
+          "value": "{Solid.Slate.700}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Offset": {
-          "value": "{Solid.Gray.900}",
+          "value": "{Solid.Slate.900}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
@@ -2097,7 +2097,7 @@
       }
     }
   },
-  "type-PegaDesktop": {
+  "type-Desktop": {
     "lineHeights": {
       "0": {
         "value": "88",
@@ -2613,9 +2613,9 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "color-PegaLight",
-      "color-PegaDark",
-      "type-PegaDesktop"
+      "color-Lightmode",
+      "color-Darkmode",
+      "type-Desktop"
     ]
   }
 }
