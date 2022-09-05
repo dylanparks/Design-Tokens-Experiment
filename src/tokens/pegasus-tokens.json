@@ -1780,7 +1780,7 @@
         "type": "fontWeights"
       },
       "Semibold": {
-        "value": "Semibold",
+        "value": "SemiBold",
         "type": "fontWeights"
       }
     },
@@ -3067,7 +3067,7 @@
           "Large": {
             "value": {
               "fontFamily": "{fontFamily.Body}",
-              "fontWeight": "{fontWeights.Bold}",
+              "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.BodyTight.Large}",
               "fontSize": "{fontSize.Body.Large}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -3080,7 +3080,7 @@
           "Medium": {
             "value": {
               "fontFamily": "{fontFamily.Body}",
-              "fontWeight": "{fontWeights.Bold}",
+              "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.BodyTight.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -3093,7 +3093,7 @@
           "Small": {
             "value": {
               "fontFamily": "{fontFamily.Body}",
-              "fontWeight": "{fontWeights.Bold}",
+              "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.BodyTight.Small}",
               "fontSize": "{fontSize.Body.Small}",
               "letterSpacing": "{letterSpacing.Body}",
