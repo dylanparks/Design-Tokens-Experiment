@@ -1760,6 +1760,10 @@
       "poppins": {
         "value": "Poppins",
         "type": "fontFamilies"
+      },
+      "inter": {
+        "value": "Inter",
+        "type": "fontFamilies"
       }
     },
     "fontWeights": {
@@ -2634,65 +2638,37 @@
       }
     }
   },
-  "font-SansSerif": {
-    "textCase": {
-      "Default": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "Default": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-    "fontFamily": {
-      "DisplayPrimary": {
-        "value": "{fontFamilies.poppins}",
-        "type": "fontFamilies"
-      },
-      "DisplaySecondary": {
-        "value": "{fontFamilies.poppins}",
-        "type": "fontFamilies"
-      },
-      "Body": {
-        "value": "{fontFamilies.poppins}",
-        "type": "fontFamilies"
-      }
-    }
-  },
   "breakpoint-Desktop": {
     "lineHeights": {
       "Display": {
         "Huge": {
-          "value": "88",
+          "value": "{Base.1100}",
           "type": "lineHeights"
         },
         "Large": {
-          "value": "72",
+          "value": "{Base.900}",
           "type": "lineHeights"
         },
         "Medium": {
-          "value": "56",
+          "value": "{Base.650}",
           "type": "lineHeights"
         },
         "Small": {
-          "value": "48",
+          "value": "{Base.600}",
           "type": "lineHeights"
         },
         "XSmall": {
-          "value": "32",
+          "value": "{Base.400}",
           "type": "lineHeights"
         }
       },
       "Body": {
         "Large": {
-          "value": "32",
+          "value": "{Base.400}",
           "type": "lineHeights"
         },
         "Medium": {
-          "value": "32",
+          "value": "{Base.400}",
           "type": "lineHeights"
         },
         "Small": {
@@ -2705,6 +2681,14 @@
         }
       },
       "BodyTight": {
+        "Large": {
+          "value": "24",
+          "type": "lineHeights"
+        },
+        "Medium": {
+          "value": "24",
+          "type": "lineHeights"
+        },
         "Small": {
           "value": "20",
           "type": "lineHeights"
@@ -2719,7 +2703,7 @@
       "Primary": {
         "Huge": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplayPrimary}",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "{lineHeights.Display.Huge}",
             "fontSize": "{fontSize.Display.Huge}",
@@ -2732,7 +2716,7 @@
         },
         "Large": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplayPrimary}",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "{lineHeights.Display.Large}",
             "fontSize": "{fontSize.Display.Large}",
@@ -2745,7 +2729,7 @@
         },
         "Medium": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplayPrimary}",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "{lineHeights.Display.Medium}",
             "fontSize": "{fontSize.Display.Medium}",
@@ -2771,7 +2755,7 @@
         },
         "XSmall": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplayPrimary}",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "{lineHeights.Display.XSmall}",
             "fontSize": "{fontSize.Display.XSmall}",
@@ -2786,7 +2770,7 @@
       "Secondary": {
         "Huge": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplaySecondary}",
             "fontWeight": "{fontWeights.Regular}",
             "lineHeight": "{lineHeights.Display.Huge}",
             "fontSize": "{fontSize.Display.Huge}",
@@ -2799,7 +2783,7 @@
         },
         "Large": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplaySecondary}",
             "fontWeight": "{fontWeights.Regular}",
             "lineHeight": "{lineHeights.Display.Large}",
             "fontSize": "{fontSize.Display.Large}",
@@ -2812,7 +2796,7 @@
         },
         "Medium": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplaySecondary}",
             "fontWeight": "{fontWeights.Regular}",
             "lineHeight": "{lineHeights.Display.Medium}",
             "fontSize": "{fontSize.Display.Medium}",
@@ -2825,7 +2809,7 @@
         },
         "Small": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplaySecondary}",
             "fontWeight": "{fontWeights.Regular}",
             "lineHeight": "{lineHeights.Display.Small}",
             "fontSize": "{fontSize.Display.Small}",
@@ -2838,7 +2822,7 @@
         },
         "XSmall": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplaySecondary}",
             "fontWeight": "{fontWeights.Regular}",
             "lineHeight": "{lineHeights.Display.XSmall}",
             "fontSize": "{fontSize.Display.XSmall}",
@@ -2918,7 +2902,7 @@
         "Non-Interactive": {
           "Large": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Regular}",
               "lineHeight": "{lineHeights.Body.Large}",
               "fontSize": "{fontSize.Body.Large}",
@@ -2931,7 +2915,7 @@
           },
           "Medium": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Regular}",
               "lineHeight": "{lineHeights.Body.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
@@ -2944,7 +2928,7 @@
           },
           "Small": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Regular}",
               "lineHeight": "{lineHeights.Body.Small}",
               "fontSize": "{fontSize.Body.Small}",
@@ -2957,7 +2941,7 @@
           },
           "XSmall": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Medium}",
               "lineHeight": "{lineHeights.Body.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
@@ -2972,7 +2956,7 @@
         "Interactive": {
           "Large": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.Body.Large}",
               "fontSize": "{fontSize.Body.Large}",
@@ -2985,7 +2969,7 @@
           },
           "Medium": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.Body.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
@@ -2998,7 +2982,7 @@
           },
           "Small": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.Body.Small}",
               "fontSize": "{fontSize.Body.Small}",
@@ -3011,7 +2995,7 @@
           },
           "XSmall": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.Body.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
@@ -3028,9 +3012,9 @@
         "Non-Interactive": {
           "Large": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Regular}",
-              "lineHeight": "{lineHeights.Body.Small}",
+              "lineHeight": "{lineHeights.BodyTight.Large}",
               "fontSize": "{fontSize.Body.Large}",
               "letterSpacing": "{letterSpacing.Body}",
               "paragraphSpacing": "{paragraphSpacing.Default}",
@@ -3041,9 +3025,9 @@
           },
           "Medium": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Regular}",
-              "lineHeight": "{lineHeights.Body.Small}",
+              "lineHeight": "{lineHeights.BodyTight.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
               "letterSpacing": "{letterSpacing.Body}",
               "paragraphSpacing": "{paragraphSpacing.Default}",
@@ -3054,7 +3038,7 @@
           },
           "Small": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Regular}",
               "lineHeight": "{lineHeights.BodyTight.Small}",
               "fontSize": "{fontSize.Body.Small}",
@@ -3067,7 +3051,7 @@
           },
           "XSmall": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Medium}",
               "lineHeight": "{lineHeights.BodyTight.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
@@ -3082,9 +3066,9 @@
         "Interactive": {
           "Large": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
-              "lineHeight": "{lineHeights.Body.Small}",
+              "lineHeight": "{lineHeights.BodyTight.Large}",
               "fontSize": "{fontSize.Body.Large}",
               "letterSpacing": "{letterSpacing.Body}",
               "paragraphSpacing": "{paragraphSpacing.Default}",
@@ -3095,9 +3079,9 @@
           },
           "Medium": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
-              "lineHeight": "{lineHeights.Body.Small}",
+              "lineHeight": "{lineHeights.BodyTight.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
               "letterSpacing": "{letterSpacing.Body}",
               "paragraphSpacing": "{paragraphSpacing.Default}",
@@ -3108,7 +3092,7 @@
           },
           "Small": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.BodyTight.Small}",
               "fontSize": "{fontSize.Body.Small}",
@@ -3121,7 +3105,7 @@
           },
           "XSmall": {
             "value": {
-              "fontFamily": "{fontFamilies.poppins}",
+              "fontFamily": "{fontFamily.Body}",
               "fontWeight": "{fontWeights.Semibold}",
               "lineHeight": "{lineHeights.BodyTight.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
@@ -3136,14 +3120,71 @@
       }
     }
   },
+  "font-Default": {
+    "textCase": {
+      "Default": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "Default": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "fontFamily": {
+      "DisplayPrimary": {
+        "value": "{fontFamilies.poppins}",
+        "type": "fontFamilies"
+      },
+      "DisplaySecondary": {
+        "value": "{fontFamilies.poppins}",
+        "type": "fontFamilies"
+      },
+      "Body": {
+        "value": "{fontFamilies.poppins}",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "font-InterTheme": {
+    "textCase": {
+      "Default": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "Default": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "fontFamily": {
+      "DisplayPrimary": {
+        "value": "{fontFamilies.inter}",
+        "type": "fontFamilies"
+      },
+      "DisplaySecondary": {
+        "value": "{fontFamilies.inter}",
+        "type": "fontFamilies"
+      },
+      "Body": {
+        "value": "{fontFamilies.inter}",
+        "type": "fontFamilies"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "color-Lightmode",
       "color-Darkmode",
-      "font-SansSerif",
-      "breakpoint-Desktop"
+      "breakpoint-Desktop",
+      "font-Default",
+      "font-InterTheme"
     ]
   }
 }
