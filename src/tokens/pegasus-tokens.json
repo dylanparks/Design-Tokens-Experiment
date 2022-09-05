@@ -3163,15 +3163,15 @@
     },
     "fontFamily": {
       "DisplayPrimary": {
-        "value": "Lora",
+        "value": "Source Serif Pro",
         "type": "fontFamilies"
       },
       "DisplaySecondary": {
-        "value": "Lora",
+        "value": "Source Serif Pro",
         "type": "fontFamilies"
       },
       "Body": {
-        "value": "Lora",
+        "value": "Source Serif Pro",
         "type": "fontFamilies"
       }
     }
