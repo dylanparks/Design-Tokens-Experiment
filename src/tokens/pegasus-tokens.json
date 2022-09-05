@@ -1782,7 +1782,162 @@
     },
     "BaseUnit": {
       "value": "8",
-      "type": "sizing"
+      "type": "sizing",
+      "description": "This controls the scale of the entire UI. It's recommended to keep this value and design at Base 8 for development parity."
+    },
+    "Base": {
+      "25": {
+        "value": "{BaseUnit} * 0.25",
+        "type": "sizing"
+      },
+      "50": {
+        "value": "{BaseUnit} * 0.5",
+        "type": "sizing"
+      },
+      "75": {
+        "value": "{BaseUnit} * 0.75",
+        "type": "sizing"
+      },
+      "100": {
+        "value": "{BaseUnit} * 1",
+        "type": "sizing"
+      },
+      "113": {
+        "value": "{BaseUnit} * 1.125",
+        "type": "sizing"
+      },
+      "125": {
+        "value": "{BaseUnit} * 1.25",
+        "type": "sizing"
+      },
+      "138": {
+        "value": "{BaseUnit} * 1.375",
+        "type": "sizing"
+      },
+      "150": {
+        "value": "{BaseUnit} * 1.5",
+        "type": "sizing"
+      },
+      "163": {
+        "value": "{BaseUnit} * 1.625",
+        "type": "sizing"
+      },
+      "175": {
+        "value": "{BaseUnit} * 1.75",
+        "type": "sizing"
+      },
+      "188": {
+        "value": "{BaseUnit} * 1.875",
+        "type": "sizing"
+      },
+      "200": {
+        "value": "{BaseUnit} * 2",
+        "type": "sizing"
+      },
+      "225": {
+        "value": "{BaseUnit} * 2.25",
+        "type": "sizing"
+      },
+      "250": {
+        "value": "{BaseUnit} * 2.5",
+        "type": "sizing"
+      },
+      "275": {
+        "value": "{BaseUnit} * 2.75",
+        "type": "sizing"
+      },
+      "300": {
+        "value": "{BaseUnit} * 3",
+        "type": "sizing"
+      },
+      "325": {
+        "value": "{BaseUnit} * 3.25",
+        "type": "sizing"
+      },
+      "350": {
+        "value": "{BaseUnit} * 3.5",
+        "type": "sizing"
+      },
+      "375": {
+        "value": "{BaseUnit} * 3.75",
+        "type": "sizing"
+      },
+      "400": {
+        "value": "{BaseUnit} * 4",
+        "type": "sizing"
+      },
+      "425": {
+        "value": "{BaseUnit} * 4.25",
+        "type": "sizing"
+      },
+      "450": {
+        "value": "{BaseUnit} * 4.5",
+        "type": "sizing"
+      },
+      "475": {
+        "value": "{BaseUnit} * 4.75",
+        "type": "sizing"
+      },
+      "500": {
+        "value": "{BaseUnit} * 5",
+        "type": "sizing"
+      },
+      "525": {
+        "value": "{BaseUnit} * 5.25",
+        "type": "sizing"
+      },
+      "550": {
+        "value": "{BaseUnit} * 5.5",
+        "type": "sizing"
+      },
+      "575": {
+        "value": "{BaseUnit} * 5.75",
+        "type": "sizing"
+      },
+      "600": {
+        "value": "{BaseUnit} * 6",
+        "type": "sizing"
+      },
+      "650": {
+        "value": "{BaseUnit} * 6.5",
+        "type": "sizing"
+      },
+      "700": {
+        "value": "{BaseUnit} * 7",
+        "type": "sizing"
+      },
+      "750": {
+        "value": "{BaseUnit} * 7.5",
+        "type": "sizing"
+      },
+      "800": {
+        "value": "{BaseUnit} * 8",
+        "type": "sizing"
+      },
+      "850": {
+        "value": "{BaseUnit} * 8.5",
+        "type": "sizing"
+      },
+      "900": {
+        "value": "{BaseUnit} * 9",
+        "type": "sizing"
+      },
+      "950": {
+        "value": "{BaseUnit} * 9.5",
+        "type": "sizing"
+      },
+      "1000": {
+        "value": "{BaseUnit} * 10",
+        "type": "sizing"
+      },
+      "1100": {
+        "value": "{BaseUnit} * 11",
+        "type": "sizing"
+      },
+      "1200": {
+        "value": "{BaseUnit} * 12",
+        "type": "sizing"
+      }
     }
   },
   "color-Lightmode": {
@@ -2509,22 +2664,6 @@
   },
   "breakpoint-Desktop": {
     "lineHeights": {
-      "9": {
-        "value": "44",
-        "type": "lineHeights"
-      },
-      "10": {
-        "value": "40",
-        "type": "lineHeights"
-      },
-      "11": {
-        "value": "34",
-        "type": "lineHeights"
-      },
-      "12": {
-        "value": "28",
-        "type": "lineHeights"
-      },
       "Display": {
         "Huge": {
           "value": "88",
@@ -2715,41 +2854,41 @@
     "fontSize": {
       "Display": {
         "Huge": {
-          "value": "64",
+          "value": "{Base.800}",
           "type": "fontSizes"
         },
         "Large": {
-          "value": "56",
+          "value": "{Base.700}",
           "type": "fontSizes"
         },
         "Medium": {
-          "value": "48",
+          "value": "{Base.600}",
           "type": "fontSizes"
         },
         "Small": {
-          "value": "36",
+          "value": "{Base.450}",
           "type": "fontSizes"
         },
         "XSmall": {
-          "value": "24",
+          "value": "{Base.300}",
           "type": "fontSizes"
         }
       },
       "Body": {
         "Large": {
-          "value": "20",
+          "value": "{Base.250}",
           "type": "fontSizes"
         },
         "Medium": {
-          "value": "18",
+          "value": "{Base.225}",
           "type": "fontSizes"
         },
         "Small": {
-          "value": "15",
+          "value": "{Base.188}",
           "type": "fontSizes"
         },
         "XSmall": {
-          "value": "13",
+          "value": "{Base.163}",
           "type": "fontSizes"
         }
       }
