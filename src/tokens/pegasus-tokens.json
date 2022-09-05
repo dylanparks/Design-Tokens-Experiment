@@ -1768,19 +1768,19 @@
     },
     "fontWeights": {
       "Bold": {
-        "value": "700",
+        "value": "Bold",
         "type": "fontWeights"
       },
       "Regular": {
-        "value": "400",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "Medium": {
-        "value": "500",
+        "value": "Medium",
         "type": "fontWeights"
       },
       "Semibold": {
-        "value": "600",
+        "value": "Semibold",
         "type": "fontWeights"
       }
     },
@@ -2742,7 +2742,7 @@
         },
         "Small": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "{fontFamily.DisplayPrimary}",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "{lineHeights.Display.Small}",
             "fontSize": "{fontSize.Display.Small}",
@@ -3163,15 +3163,15 @@
     },
     "fontFamily": {
       "DisplayPrimary": {
-        "value": "Prata",
+        "value": "Lora",
         "type": "fontFamilies"
       },
       "DisplaySecondary": {
-        "value": "Prata",
+        "value": "Lora",
         "type": "fontFamilies"
       },
       "Body": {
-        "value": "Prata",
+        "value": "Lora",
         "type": "fontFamilies"
       }
     }
