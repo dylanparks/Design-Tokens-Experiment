@@ -3346,6 +3346,38 @@
       }
     }
   },
+  "shape": {
+    "radius": {
+      "Pill": {
+        "value": "999",
+        "type": "borderRadius"
+      },
+      "XLarge": {
+        "value": "{Base.250}",
+        "type": "borderRadius"
+      },
+      "Large": {
+        "value": "{Base.200}",
+        "type": "borderRadius"
+      },
+      "Medium": {
+        "value": "{Base.150}",
+        "type": "borderRadius"
+      },
+      "Small": {
+        "value": "{Base.100}",
+        "type": "borderRadius"
+      },
+      "XSmall": {
+        "value": "{Base.50}",
+        "type": "borderRadius"
+      },
+      "Tiny": {
+        "value": "{Base.25}",
+        "type": "borderRadius"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -3355,7 +3387,8 @@
       "breakpoint-Desktop",
       "breakpoint-Mobile",
       "font-Latin",
-      "font-Arabic"
+      "font-Arabic",
+      "shape"
     ]
   }
 }
