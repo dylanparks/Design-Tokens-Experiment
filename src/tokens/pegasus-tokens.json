@@ -3366,7 +3366,7 @@
       "Medium": {
         "value": "{Base.150}",
         "type": "borderRadius",
-        "description": "The most common radius for medium-large inputs as well as Large and Medium sized buttons and dropdown panels."
+        "description": "The most common radius for medium-large inputs as well as Large and Medium sized buttons, dropdown panels, and smaller cards."
       },
       "Small": {
         "value": "{Base.100}",
