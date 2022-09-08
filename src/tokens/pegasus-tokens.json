@@ -362,7 +362,7 @@
       "value": "120",
       "type": "other"
     },
-    "Solid": {
+    "Neutral": {
       "Black": {
         "value": "#050609",
         "type": "color"
@@ -790,7 +790,9 @@
           "value": "#1F1728",
           "type": "color"
         }
-      },
+      }
+    },
+    "Vivid": {
       "Red": {
         "50": {
           "value": "#FFF5F5",
@@ -2296,113 +2298,113 @@
     "Interactive": {
       "Primary": {
         "Active": {
-          "value": "{Solid.Purple.700}",
+          "value": "{Vivid.Purple.700}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Hover": {
-          "value": "{Solid.Purple.600}",
+          "value": "{Vivid.Purple.600}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Default": {
-          "value": "{Solid.Purple.500}",
+          "value": "{Vivid.Purple.500}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Disabled": {
-          "value": "{Solid.Purple.200}",
+          "value": "{Vivid.Purple.200}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Subtle": {
-          "value": "{Solid.Purple.100}",
+          "value": "{Vivid.Purple.100}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Offset": {
-          "value": "{Solid.Purple.50}",
+          "value": "{Vivid.Purple.50}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         }
       },
       "Secondary": {
         "Active": {
-          "value": "{Solid.Purple.700}",
+          "value": "{Vivid.Purple.700}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Hover": {
-          "value": "{Solid.Purple.600}",
+          "value": "{Vivid.Purple.600}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Default": {
-          "value": "{Solid.Purple.500}",
+          "value": "{Vivid.Purple.500}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Disabled": {
-          "value": "{Solid.Purple.200}",
+          "value": "{Vivid.Purple.200}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Subtle": {
-          "value": "{Solid.Purple.100}",
+          "value": "{Vivid.Purple.100}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Offset": {
-          "value": "{Solid.Purple.50}",
+          "value": "{Vivid.Purple.50}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         }
       },
       "Tertiary": {
         "Active": {
-          "value": "{Solid.Slate.900}",
+          "value": "{Neutral.Slate.900}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Hover": {
-          "value": "{Solid.Slate.800}",
+          "value": "{Neutral.Slate.800}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Default": {
-          "value": "{Solid.Slate.700}",
+          "value": "{Neutral.Slate.700}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "InactiveStrong": {
-          "value": "{Solid.Slate.500}",
+          "value": "{Neutral.Slate.500}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Inactive": {
-          "value": "{Solid.Slate.400}",
+          "value": "{Neutral.Slate.400}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Disabled": {
-          "value": "{Solid.Slate.300}",
+          "value": "{Neutral.Slate.300}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Subtle": {
-          "value": "{Solid.Slate.200}",
+          "value": "{Neutral.Slate.200}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Offset": {
-          "value": "{Solid.Slate.50}",
+          "value": "{Neutral.Slate.50}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         }
       },
       "OnMedia": {
         "Active": {
-          "value": "{Solid.White}",
+          "value": "{Neutral.White}",
           "type": "color",
           "description": "Used for all interactive elements that are overlayed on top of media such as images, video, color backgrounds, and more."
         },
@@ -2446,44 +2448,44 @@
     "Non-Interactive": {
       "Neutral": {
         "Primary": {
-          "value": "{Solid.Slate.900}",
+          "value": "{Neutral.Slate.900}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Secondary": {
-          "value": "{Solid.Slate.700}",
+          "value": "{Neutral.Slate.700}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Tertiary": {
-          "value": "{Solid.Slate.600}",
+          "value": "{Neutral.Slate.600}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Icon": {
-          "value": "{Solid.Slate.400}",
+          "value": "{Neutral.Slate.400}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Subtle": {
-          "value": "{Solid.Slate.200}",
+          "value": "{Neutral.Slate.200}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Offset": {
-          "value": "{Solid.Slate.50}",
+          "value": "{Neutral.Slate.50}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Background": {
-          "value": "{Solid.White}",
+          "value": "{Neutral.White}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         }
       },
       "OnMedia": {
         "Primary": {
-          "value": "{Solid.White}",
+          "value": "{Neutral.White}",
           "type": "color",
           "description": "For elements that are overlayed on top of media such as images, video, colors, etc. that do not contain interactivity or states users can engage with."
         },
@@ -2518,7 +2520,7 @@
           "description": "For elements that are overlayed on top of media such as images, video, colors, etc. that do not contain interactivity or states users can engage with."
         },
         "PrimaryInvert": {
-          "value": "{Solid.Black}",
+          "value": "{Neutral.Black}",
           "type": "color",
           "description": "Inverted OnMedia states are used for scenarios where the color contrast of the background fill is too low when using the standard Primary OnMedia swatch."
         },
@@ -2528,14 +2530,14 @@
           "description": "Inverted OnMedia states are used for scenarios where the color contrast of the background fill is too low when using the standard Primary OnMedia swatch."
         },
         "DataVisual": {
-          "value": "linear-gradient(180deg, {Solid.White} 0%, {Solid.White}00 100%)",
+          "value": "linear-gradient(180deg, {Neutral.White} 0%, {Neutral.White}00 100%)",
           "type": "color",
           "description": "Data Visual - Used on the OnMedia prop overlay option on the line chart under Data Visualization."
         }
       },
       "Callout": {
         "Primary": {
-          "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Indigo.600} 100%)",
+          "value": "linear-gradient(109deg, {Vivid.Purple.300} 0%, {Vivid.Indigo.600} 100%)",
           "type": "color",
           "description": "Used as accent colors that do not convey interactivity. These are commonly used as brand accent colors, colors used to accent icons or illustrations, and more."
         }
@@ -2544,17 +2546,17 @@
     "Status": {
       "Informative": {
         "Text": {
-          "value": "{Solid.Cobalt.800}",
+          "value": "{Vivid.Cobalt.800}",
           "type": "color",
           "description": "Used for the display of neutral or helpful information to users. Gently reminds or hints to users a status or update on the product."
         },
         "Accent": {
-          "value": "{Solid.Cobalt.500}",
+          "value": "{Vivid.Cobalt.500}",
           "type": "color",
           "description": "Used for the display of neutral or helpful information to users. Gently reminds or hints to users a status or update on the product."
         },
         "Background": {
-          "value": "{Solid.Cobalt.100}",
+          "value": "{Vivid.Cobalt.100}",
           "type": "color",
           "description": "Used for the display of neutral or helpful information to users. Gently reminds or hints to users a status or update on the product."
         },
@@ -2566,17 +2568,17 @@
       },
       "Success": {
         "Text": {
-          "value": "{Solid.Cucumber.800}",
+          "value": "{Vivid.Cucumber.800}",
           "type": "color",
           "description": "Confirms to the user that a process or status is confirmed or a successful transaction has taken place. Also used to represent positive change in data visualization."
         },
         "Accent": {
-          "value": "{Solid.Cucumber.500}",
+          "value": "{Vivid.Cucumber.500}",
           "type": "color",
           "description": "Confirms to the user that a process or status is confirmed or a successful transaction has taken place. Also used to represent positive change in data visualization."
         },
         "Background": {
-          "value": "{Solid.Cucumber.100}",
+          "value": "{Vivid.Cucumber.100}",
           "type": "color",
           "description": "Confirms to the user that a process or status is confirmed or a successful transaction has taken place. Also used to represent positive change in data visualization."
         },
@@ -2588,34 +2590,34 @@
       },
       "Warning": {
         "Text": {
-          "value": "{Solid.Honey.800}",
+          "value": "{Vivid.Honey.800}",
           "type": "color",
           "description": "Cautions the user about the potential for problems or warning users ahead of time that there may be an issue moving forward."
         },
         "Accent": {
-          "value": "{Solid.Honey.500}",
+          "value": "{Vivid.Honey.500}",
           "type": "color",
           "description": "Cautions the user about the potential for problems or warning users ahead of time that there may be an issue moving forward."
         },
         "Background": {
-          "value": "{Solid.Honey.100}",
+          "value": "{Vivid.Honey.100}",
           "type": "color",
           "description": "Cautions the user about the potential for problems or warning users ahead of time that there may be an issue moving forward."
         }
       },
       "Error": {
         "Text": {
-          "value": "{Solid.Ruby.800}",
+          "value": "{Vivid.Ruby.800}",
           "type": "color",
           "description": "Alerts the user that an error has taken place or something went wrong with a process they submitted. Also used to represent a negative change in data visualization."
         },
         "Accent": {
-          "value": "{Solid.Ruby.500}",
+          "value": "{Vivid.Ruby.500}",
           "type": "color",
           "description": "Alerts the user that an error has taken place or something went wrong with a process they submitted. Also used to represent a negative change in data visualization."
         },
         "Background": {
-          "value": "{Solid.Ruby.100}",
+          "value": "{Vivid.Ruby.100}",
           "type": "color",
           "description": "Alerts the user that an error has taken place or something went wrong with a process they submitted. Also used to represent a negative change in data visualization."
         },
@@ -2628,12 +2630,12 @@
     },
     "Effects": {
       "OverlaySolid": {
-        "value": "{Solid.Black}99",
+        "value": "{Neutral.Black}99",
         "type": "color",
         "description": "Used to display depth through overlays or other types of effects."
       },
       "OverlayGradient": {
-        "value": "linear-gradient(180deg, {Solid.Black}00 0%, {Solid.Black} 82.81%)",
+        "value": "linear-gradient(180deg, {Neutral.Black}00 0%, {Neutral.Black} 82.81%)",
         "type": "color",
         "description": "Used to display depth through overlays or other types of effects."
       }
@@ -2643,113 +2645,113 @@
     "Interactive": {
       "Primary": {
         "Active": {
-          "value": "{Solid.Purple.200}",
+          "value": "{Vivid.Purple.200}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Hover": {
-          "value": "{Solid.Purple.300}",
+          "value": "{Vivid.Purple.300}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Default": {
-          "value": "{Solid.Purple.400}",
+          "value": "{Vivid.Purple.400}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Disabled": {
-          "value": "{Solid.Purple.800}",
+          "value": "{Vivid.Purple.800}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Subtle": {
-          "value": "{Solid.Purple.800}",
+          "value": "{Vivid.Purple.800}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         },
         "Offset": {
-          "value": "{Solid.Purple.900}",
+          "value": "{Vivid.Purple.900}",
           "type": "color",
           "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
         }
       },
       "Secondary": {
         "Active": {
-          "value": "{Solid.Purple.200}",
+          "value": "{Vivid.Purple.200}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Hover": {
-          "value": "{Solid.Purple.300}",
+          "value": "{Vivid.Purple.300}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Default": {
-          "value": "{Solid.Purple.400}",
+          "value": "{Vivid.Purple.400}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Disabled": {
-          "value": "{Solid.Purple.800}",
+          "value": "{Vivid.Purple.800}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Subtle": {
-          "value": "{Solid.Purple.800}",
+          "value": "{Vivid.Purple.800}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Offset": {
-          "value": "{Solid.Purple.900}",
+          "value": "{Vivid.Purple.900}",
           "type": "color",
           "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         }
       },
       "Tertiary": {
         "Active": {
-          "value": "{Solid.White}",
+          "value": "{Neutral.White}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Hover": {
-          "value": "{Solid.Slate.200}",
+          "value": "{Neutral.Slate.200}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Default": {
-          "value": "{Solid.Slate.300}",
+          "value": "{Neutral.Slate.300}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "InactiveStrong": {
-          "value": "{Solid.Slate.500}",
+          "value": "{Neutral.Slate.500}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Inactive": {
-          "value": "{Solid.Slate.600}",
+          "value": "{Neutral.Slate.600}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Disabled": {
-          "value": "{Solid.Slate.700}",
+          "value": "{Neutral.Slate.700}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Subtle": {
-          "value": "{Solid.Slate.800}",
+          "value": "{Neutral.Slate.800}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Offset": {
-          "value": "{Solid.Slate.900}",
+          "value": "{Neutral.Slate.900}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         }
       },
       "OnMedia": {
         "Active": {
-          "value": "{Solid.White}",
+          "value": "{Neutral.White}",
           "type": "color",
           "description": "Used for all interactive elements that are overlayed on top of media such as images, video, color backgrounds, and more."
         },
@@ -2793,44 +2795,44 @@
     "Non-Interactive": {
       "Neutral": {
         "Primary": {
-          "value": "{Solid.White}",
+          "value": "{Neutral.White}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Secondary": {
-          "value": "{Solid.Slate.200}",
+          "value": "{Neutral.Slate.200}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Tertiary": {
-          "value": "{Solid.Slate.300}",
+          "value": "{Neutral.Slate.300}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Icon": {
-          "value": "{Solid.Slate.600}",
+          "value": "{Neutral.Slate.600}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Subtle": {
-          "value": "{Solid.Slate.700}",
+          "value": "{Neutral.Slate.700}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Offset": {
-          "value": "{Solid.Slate.900}",
+          "value": "{Neutral.Slate.900}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         },
         "Background": {
-          "value": "{Solid.Black}",
+          "value": "{Neutral.Black}",
           "type": "color",
           "description": "Used as the main colors for neutral elements such as text headers, body copy, icons, etc. that don’t have any interactivity or have states for the user to engage with."
         }
       },
       "OnMedia": {
         "Primary": {
-          "value": "{Solid.White}",
+          "value": "{Neutral.White}",
           "type": "color",
           "description": "For elements that are overlayed on top of media such as images, video, colors, etc. that do not contain interactivity or states users can engage with."
         },
@@ -2865,7 +2867,7 @@
           "description": "For elements that are overlayed on top of media such as images, video, colors, etc. that do not contain interactivity or states users can engage with."
         },
         "PrimaryInvert": {
-          "value": "{Solid.Black}",
+          "value": "{Neutral.Black}",
           "type": "color",
           "description": "Inverted OnMedia states are used for scenarios where the color contrast of the background fill is too low when using the standard Primary OnMedia swatch."
         },
@@ -2875,14 +2877,14 @@
           "description": "Inverted OnMedia states are used for scenarios where the color contrast of the background fill is too low when using the standard Primary OnMedia swatch."
         },
         "DataVisual": {
-          "value": "linear-gradient(180deg, {Solid.White} 0%, {Solid.White}00 100%)",
+          "value": "linear-gradient(180deg, {Neutral.White} 0%, {Neutral.White}00 100%)",
           "type": "color",
           "description": "Data Visual - Used on the OnMedia prop overlay option on the line chart under Data Visualization."
         }
       },
       "Callout": {
         "Primary": {
-          "value": "linear-gradient(109deg, {Solid.Purple.300} 0%, {Solid.Purple.600} 100%)",
+          "value": "linear-gradient(109deg, {Vivid.Purple.300} 0%, {Vivid.Purple.600} 100%)",
           "type": "color",
           "description": "Used as accent colors that do not convey interactivity. These are commonly used as brand accent colors, colors used to accent icons or illustrations, and more."
         }
@@ -2891,17 +2893,17 @@
     "Status": {
       "Informative": {
         "Text": {
-          "value": "{Solid.Cobalt.200}",
+          "value": "{Vivid.Cobalt.200}",
           "type": "color",
           "description": "Used for the display of neutral or helpful information to users. Gently reminds or hints to users a status or update on the product."
         },
         "Accent": {
-          "value": "{Solid.Cobalt.500}",
+          "value": "{Vivid.Cobalt.500}",
           "type": "color",
           "description": "Used for the display of neutral or helpful information to users. Gently reminds or hints to users a status or update on the product."
         },
         "Background": {
-          "value": "{Solid.Cobalt.900}",
+          "value": "{Vivid.Cobalt.900}",
           "type": "color",
           "description": "Used for the display of neutral or helpful information to users. Gently reminds or hints to users a status or update on the product."
         },
@@ -2913,17 +2915,17 @@
       },
       "Success": {
         "Text": {
-          "value": "{Solid.Cucumber.200}",
+          "value": "{Vivid.Cucumber.200}",
           "type": "color",
           "description": "Confirms to the user that a process or status is confirmed or a successful transaction has taken place. Also used to represent positive change in data visualization."
         },
         "Accent": {
-          "value": "{Solid.Cucumber.500}",
+          "value": "{Vivid.Cucumber.500}",
           "type": "color",
           "description": "Confirms to the user that a process or status is confirmed or a successful transaction has taken place. Also used to represent positive change in data visualization."
         },
         "Background": {
-          "value": "{Solid.Cucumber.900}",
+          "value": "{Vivid.Cucumber.900}",
           "type": "color",
           "description": "Confirms to the user that a process or status is confirmed or a successful transaction has taken place. Also used to represent positive change in data visualization."
         },
@@ -2935,34 +2937,34 @@
       },
       "Warning": {
         "Text": {
-          "value": "{Solid.Honey.200}",
+          "value": "{Vivid.Honey.200}",
           "type": "color",
           "description": "Cautions the user about the potential for problems or warning users ahead of time that there may be an issue moving forward."
         },
         "Accent": {
-          "value": "{Solid.Honey.500}",
+          "value": "{Vivid.Honey.500}",
           "type": "color",
           "description": "Cautions the user about the potential for problems or warning users ahead of time that there may be an issue moving forward."
         },
         "Background": {
-          "value": "{Solid.Honey.900}",
+          "value": "{Vivid.Honey.900}",
           "type": "color",
           "description": "Cautions the user about the potential for problems or warning users ahead of time that there may be an issue moving forward."
         }
       },
       "Error": {
         "Text": {
-          "value": "{Solid.Ruby.200}",
+          "value": "{Vivid.Ruby.200}",
           "type": "color",
           "description": "Alerts the user that an error has taken place or something went wrong with a process they submitted. Also used to represent a negative change in data visualization."
         },
         "Accent": {
-          "value": "{Solid.Ruby.500}",
+          "value": "{Vivid.Ruby.500}",
           "type": "color",
           "description": "Alerts the user that an error has taken place or something went wrong with a process they submitted. Also used to represent a negative change in data visualization."
         },
         "Background": {
-          "value": "{Solid.Ruby.900}",
+          "value": "{Vivid.Ruby.900}",
           "type": "color",
           "description": "Alerts the user that an error has taken place or something went wrong with a process they submitted. Also used to represent a negative change in data visualization."
         },
@@ -2975,12 +2977,12 @@
     },
     "Effects": {
       "OverlaySolid": {
-        "value": "{Solid.Black}99",
+        "value": "{Neutral.Black}99",
         "type": "color",
         "description": "Used to display depth through overlays or other types of effects."
       },
       "OverlayGradient": {
-        "value": "linear-gradient(180deg, {Solid.Black}00 0%, {Solid.Black} 82.81%)",
+        "value": "linear-gradient(180deg, {Neutral.Black}00 0%, {Neutral.Black} 82.81%)",
         "type": "color",
         "description": "Used to display depth through overlays or other types of effects."
       }
