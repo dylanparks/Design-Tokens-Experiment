@@ -2888,7 +2888,7 @@
         }
       }
     },
-    "Feedback": {
+    "Status": {
       "Informative": {
         "Text": {
           "value": "{Solid.Cobalt.200}",
@@ -2906,7 +2906,7 @@
           "description": "Used for the display of neutral or helpful information to users. Gently reminds or hints to users a status or update on the product."
         },
         "DataVisual": {
-          "value": "linear-gradient(180deg, {Feedback.Informative.Accent} 0%, {Feedback.Informative.Accent}00 100%)",
+          "value": "linear-gradient(180deg, {Status.Informative.Accent} 0%, {Status.Informative.Accent}00 100%)",
           "type": "color",
           "description": "Data Visual - Used on the neutral chart option on the line chart under Data Visualization."
         }
@@ -2928,7 +2928,7 @@
           "description": "Confirms to the user that a process or status is confirmed or a successful transaction has taken place. Also used to represent positive change in data visualization."
         },
         "DataVisual": {
-          "value": "linear-gradient(180deg, {Feedback.Success.Accent} 0%, {Feedback.Success.Accent}00 100%)",
+          "value": "linear-gradient(180deg, {Status.Success.Accent} 0%, {Status.Success.Accent}00 100%)",
           "type": "color",
           "description": "Data Visual - Used on the positive chart option on the line chart under Data Visualization."
         }
@@ -2967,7 +2967,7 @@
           "description": "Alerts the user that an error has taken place or something went wrong with a process they submitted. Also used to represent a negative change in data visualization."
         },
         "DataVisual": {
-          "value": "linear-gradient(180deg, {Feedback.Error.Accent} 0%, {Feedback.Error.Accent}00 100%)",
+          "value": "linear-gradient(180deg, {Status.Error.Accent} 0%, {Status.Error.Accent}00 100%)",
           "type": "color",
           "description": "Data Visual - Used on the negative chart option on the line chart under Data Visualization."
         }
