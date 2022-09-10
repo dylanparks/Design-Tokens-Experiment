@@ -3348,7 +3348,7 @@
       }
     }
   },
-  "shape": {
+  "radius": {
     "radius": {
       "Pill": {
         "value": "999",
@@ -3392,7 +3392,7 @@
       "breakpoint-Mobile",
       "font-Latin",
       "font-Arabic",
-      "shape"
+      "radius"
     ]
   }
 }
