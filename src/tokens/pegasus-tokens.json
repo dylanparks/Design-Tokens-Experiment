@@ -3180,11 +3180,11 @@
           "type": "fontSizes"
         },
         "Large": {
-          "value": "{Base.450}",
+          "value": "{Base.500}",
           "type": "fontSizes"
         },
         "Medium": {
-          "value": "{Base.400}",
+          "value": "{Base.450}",
           "type": "fontSizes"
         },
         "Small": {
