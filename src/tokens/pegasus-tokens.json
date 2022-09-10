@@ -3116,19 +3116,19 @@
     "lineHeights": {
       "Display": {
         "Huge": {
-          "value": "{Base.1100}",
+          "value": "{Base.700}",
           "type": "lineHeights"
         },
         "Large": {
-          "value": "{Base.900}",
+          "value": "{Base.600}",
           "type": "lineHeights"
         },
         "Medium": {
-          "value": "{Base.650}",
+          "value": "{Base.550}",
           "type": "lineHeights"
         },
         "Small": {
-          "value": "{Base.600}",
+          "value": "{Base.450}",
           "type": "lineHeights"
         },
         "XSmall": {
@@ -3176,19 +3176,19 @@
     "fontSize": {
       "Display": {
         "Huge": {
-          "value": "{Base.800}",
-          "type": "fontSizes"
-        },
-        "Large": {
-          "value": "{Base.700}",
-          "type": "fontSizes"
-        },
-        "Medium": {
           "value": "{Base.600}",
           "type": "fontSizes"
         },
-        "Small": {
+        "Large": {
           "value": "{Base.450}",
+          "type": "fontSizes"
+        },
+        "Medium": {
+          "value": "{Base.400}",
+          "type": "fontSizes"
+        },
+        "Small": {
+          "value": "{Base.350}",
           "type": "fontSizes"
         },
         "XSmall": {
