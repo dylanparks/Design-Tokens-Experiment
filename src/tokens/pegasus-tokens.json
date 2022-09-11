@@ -3382,6 +3382,7 @@
       }
     }
   },
+  "depth": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -3392,7 +3393,8 @@
       "breakpoint-Mobile",
       "font-Latin",
       "font-Arabic",
-      "radius"
+      "radius",
+      "depth"
     ]
   }
 }
