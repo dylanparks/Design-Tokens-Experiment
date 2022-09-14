@@ -3350,35 +3350,35 @@
   },
   "radius": {
     "radius": {
-      "Pill": {
-        "value": "999",
+      "XSmall": {
+        "value": "{Base.50}",
         "type": "borderRadius",
-        "description": "Used on the circular pill-rounded elements such as dates on the calendar picker, radio input, and increment stepper buttons"
-      },
-      "XLarge": {
-        "value": "{Base.300}",
-        "type": "borderRadius",
-        "description": "Used on very large elements such as the Modal window edges or for larger card elements."
-      },
-      "Large": {
-        "value": "{Base.200}",
-        "type": "borderRadius",
-        "description": "Used for very large interactive elements such as huge button or for medium-sized card elements such as notifications."
-      },
-      "Medium": {
-        "value": "{Base.150}",
-        "type": "borderRadius",
-        "description": "The most common radius for medium-large inputs as well as Large and Medium sized buttons, dropdown panels, and smaller cards."
+        "description": "Used in a small number of use-cases such as the radius on tabs."
       },
       "Small": {
         "value": "{Base.100}",
         "type": "borderRadius",
         "description": "Used on smaller inputs such as small checkbox indicators and smaller components such as small badges"
       },
-      "XSmall": {
-        "value": "{Base.50}",
+      "Medium": {
+        "value": "{Base.150}",
         "type": "borderRadius",
-        "description": "Used in a small number of use-cases such as the radius on tabs."
+        "description": "The most common radius for medium-large inputs as well as Large and Medium sized buttons, dropdown panels, and smaller cards."
+      },
+      "Large": {
+        "value": "{Base.200}",
+        "type": "borderRadius",
+        "description": "Used for large interactive elements such as huge button or for medium-sized card elements such as notifications."
+      },
+      "XLarge": {
+        "value": "{Base.300}",
+        "type": "borderRadius",
+        "description": "Used on very large elements such as the Modal window edges or for larger card elements."
+      },
+      "Pill": {
+        "value": "999",
+        "type": "borderRadius",
+        "description": "Used on the circular pill-rounded elements such as dates on the calendar picker, radio input, and increment stepper buttons"
       }
     }
   },
