@@ -3385,176 +3385,121 @@
   "depth": {
     "Interactive": {
       "Default": {
-        "Large": {
+        "Card": {
           "value": {
             "color": "#00000014",
             "type": "dropShadow",
-            "x": 0,
-            "y": 16,
-            "blur": 48,
-            "spread": 0
+            "x": "0",
+            "y": "16",
+            "blur": "48",
+            "spread": "0"
           },
           "type": "boxShadow"
         },
-        "Medium": {
+        "Element": {
           "value": {
             "color": "#00000014",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 24,
-            "spread": 0
-          },
-          "type": "boxShadow"
-        },
-        "Small": {
-          "value": {
-            "color": "#00000014",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 12,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "12",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
       },
       "Hover": {
-        "Large": {
+        "Card": {
           "value": {
             "color": "#0000001f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 16,
-            "blur": 64,
-            "spread": 0
+            "x": "0",
+            "y": "16",
+            "blur": "64",
+            "spread": "0"
           },
           "type": "boxShadow"
         },
-        "Medium": {
+        "Element": {
           "value": {
             "color": "#0000001f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 32,
-            "spread": 0
-          },
-          "type": "boxShadow"
-        },
-        "Small": {
-          "value": {
-            "color": "#0000001f",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 16,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "16",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
       },
       "Active": {
-        "Large": {
+        "Card": {
           "value": {
             "color": "#00000029",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 24,
-            "spread": 0
+            "x": "0",
+            "y": "8",
+            "blur": "24",
+            "spread": "0"
           },
           "type": "boxShadow"
         },
-        "Medium": {
+        "Element": {
           "value": {
             "color": "#00000029",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 12,
-            "spread": 0
-          },
-          "type": "boxShadow"
-        },
-        "Small": {
-          "value": {
-            "color": "#00000029",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 2,
-            "blur": 6,
-            "spread": 0
+            "x": "0",
+            "y": "2",
+            "blur": "6",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
       },
       "Focus": {
-        "Large": {
+        "Card": {
           "value": {
             "color": "#0000001f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 16,
-            "blur": 64,
-            "spread": 0
+            "x": "0",
+            "y": "16",
+            "blur": "64",
+            "spread": "0"
           },
           "type": "boxShadow"
         },
-        "Medium": {
+        "Element": {
           "value": {
             "color": "#0000001f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 32,
-            "spread": 0
-          },
-          "type": "boxShadow"
-        },
-        "Small": {
-          "value": {
-            "color": "#0000001f",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 16,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "16",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
       },
       "Disabled": {
-        "Large": {
+        "Card": {
           "value": {
             "color": "#0000000a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 16,
-            "blur": 48,
-            "spread": 0
+            "x": "0",
+            "y": "16",
+            "blur": "48",
+            "spread": "0"
           },
           "type": "boxShadow"
         },
-        "Medium": {
+        "Element": {
           "value": {
             "color": "#0000000a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 24,
-            "spread": 0
-          },
-          "type": "boxShadow"
-        },
-        "Small": {
-          "value": {
-            "color": "#0000000a",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 12,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "12",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
@@ -3562,74 +3507,62 @@
     },
     "Non-Interactive": {
       "Default": {
-        "Large": {
+        "Card": {
           "value": {
             "color": "#00000014",
             "type": "dropShadow",
-            "x": 0,
-            "y": 16,
-            "blur": 48,
-            "spread": 0
+            "x": "0",
+            "y": "16",
+            "blur": "48",
+            "spread": "0"
           },
           "type": "boxShadow"
         },
-        "Medium": {
+        "Element": {
           "value": {
             "color": "#00000014",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 24,
-            "spread": 0
-          },
-          "type": "boxShadow"
-        },
-        "Small": {
-          "value": {
-            "color": "#00000014",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 12,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "12",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
       },
       "Callout": {
-        "Large": {
+        "Card": {
           "value": {
             "color": "#0000001f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 16,
-            "blur": 48,
-            "spread": 0
+            "x": "0",
+            "y": "16",
+            "blur": "48",
+            "spread": "0"
           },
           "type": "boxShadow"
         },
-        "Medium": {
+        "Element": {
           "value": {
             "color": "#0000001f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 24,
-            "spread": 0
-          },
-          "type": "boxShadow"
-        },
-        "Small": {
-          "value": {
-            "color": "#0000001f",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 12,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "12",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
+      }
+    },
+    "shadowColor": {
+      "Default": {
+        "value": "{Neutral.Black}",
+        "type": "color"
+      },
+      "Callout": {
+        "value": "{Neutral.Black}",
+        "type": "color"
       }
     }
   },
