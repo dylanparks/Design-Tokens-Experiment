@@ -5,7 +5,7 @@
         "Huge": {
           "value": {
             "fontFamily": "{fontFamily.Display.Primary}",
-            "fontWeight": "{fontWeights.Bold}",
+            "fontWeight": "{fontWeight.Display.Primary}",
             "lineHeight": "{lineHeights.Display.Huge}",
             "fontSize": "{fontSize.Display.Huge}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -18,7 +18,7 @@
         "Large": {
           "value": {
             "fontFamily": "{fontFamily.Display.Primary}",
-            "fontWeight": "{fontWeights.Bold}",
+            "fontWeight": "{fontWeight.Display.Primary}",
             "lineHeight": "{lineHeights.Display.Large}",
             "fontSize": "{fontSize.Display.Large}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -31,7 +31,7 @@
         "Medium": {
           "value": {
             "fontFamily": "{fontFamily.Display.Primary}",
-            "fontWeight": "{fontWeights.Bold}",
+            "fontWeight": "{fontWeight.Display.Primary}",
             "lineHeight": "{lineHeights.Display.Medium}",
             "fontSize": "{fontSize.Display.Medium}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -44,7 +44,7 @@
         "Small": {
           "value": {
             "fontFamily": "{fontFamily.Display.Primary}",
-            "fontWeight": "{fontWeights.Bold}",
+            "fontWeight": "{fontWeight.Display.Primary}",
             "lineHeight": "{lineHeights.Display.Small}",
             "fontSize": "{fontSize.Display.Small}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -57,7 +57,7 @@
         "XSmall": {
           "value": {
             "fontFamily": "{fontFamily.Display.Primary}",
-            "fontWeight": "{fontWeights.Bold}",
+            "fontWeight": "{fontWeight.Display.Primary}",
             "lineHeight": "{lineHeights.Display.XSmall}",
             "fontSize": "{fontSize.Display.XSmall}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -72,7 +72,7 @@
         "Huge": {
           "value": {
             "fontFamily": "{fontFamily.Display.Secondary}",
-            "fontWeight": "{fontWeights.Regular}",
+            "fontWeight": "{fontWeight.Display.Secondary}",
             "lineHeight": "{lineHeights.Display.Huge}",
             "fontSize": "{fontSize.Display.Huge}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -85,7 +85,7 @@
         "Large": {
           "value": {
             "fontFamily": "{fontFamily.Display.Secondary}",
-            "fontWeight": "{fontWeights.Regular}",
+            "fontWeight": "{fontWeight.Display.Secondary}",
             "lineHeight": "{lineHeights.Display.Large}",
             "fontSize": "{fontSize.Display.Large}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -98,7 +98,7 @@
         "Medium": {
           "value": {
             "fontFamily": "{fontFamily.Display.Secondary}",
-            "fontWeight": "{fontWeights.Regular}",
+            "fontWeight": "{fontWeight.Display.Secondary}",
             "lineHeight": "{lineHeights.Display.Medium}",
             "fontSize": "{fontSize.Display.Medium}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -111,7 +111,7 @@
         "Small": {
           "value": {
             "fontFamily": "{fontFamily.Display.Secondary}",
-            "fontWeight": "{fontWeights.Regular}",
+            "fontWeight": "{fontWeight.Display.Secondary}",
             "lineHeight": "{lineHeights.Display.Small}",
             "fontSize": "{fontSize.Display.Small}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -124,7 +124,7 @@
         "XSmall": {
           "value": {
             "fontFamily": "{fontFamily.Display.Secondary}",
-            "fontWeight": "{fontWeights.Regular}",
+            "fontWeight": "{fontWeight.Display.Secondary}",
             "lineHeight": "{lineHeights.Display.XSmall}",
             "fontSize": "{fontSize.Display.XSmall}",
             "letterSpacing": "{letterSpacing.Display}",
@@ -142,7 +142,7 @@
           "Large": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Regular}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.Body.Large}",
               "fontSize": "{fontSize.Body.Large}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -155,7 +155,7 @@
           "Medium": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Regular}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.Body.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -168,7 +168,7 @@
           "Small": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Regular}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.Body.Small}",
               "fontSize": "{fontSize.Body.Small}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -181,7 +181,7 @@
           "XSmall": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Medium}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.Body.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
               "letterSpacing": "{letterSpacing.BodyXSmall}",
@@ -196,7 +196,7 @@
           "Large": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Semibold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.Body.Large}",
               "fontSize": "{fontSize.Body.Large}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -209,7 +209,7 @@
           "Medium": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Semibold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.Body.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -222,7 +222,7 @@
           "Small": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Semibold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.Body.Small}",
               "fontSize": "{fontSize.Body.Small}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -235,7 +235,7 @@
           "XSmall": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Bold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.Body.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
               "letterSpacing": "{letterSpacing.BodyXSmall}",
@@ -252,7 +252,7 @@
           "Large": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Regular}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.BodyTight.Large}",
               "fontSize": "{fontSize.Body.Large}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -265,7 +265,7 @@
           "Medium": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Regular}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.BodyTight.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -278,7 +278,7 @@
           "Small": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Regular}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.BodyTight.Small}",
               "fontSize": "{fontSize.Body.Small}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -291,7 +291,7 @@
           "XSmall": {
             "value": {
               "fontFamily": "{fontFamily.Body.Non-Interactive}",
-              "fontWeight": "{fontWeights.Medium}",
+              "fontWeight": "{fontWeight.Body.Non-Interactive}",
               "lineHeight": "{lineHeights.BodyTight.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
               "letterSpacing": "{letterSpacing.BodyXSmall}",
@@ -306,7 +306,7 @@
           "Large": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Semibold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.BodyTight.Large}",
               "fontSize": "{fontSize.Body.Large}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -319,7 +319,7 @@
           "Medium": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Semibold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.BodyTight.Medium}",
               "fontSize": "{fontSize.Body.Medium}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -332,7 +332,7 @@
           "Small": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Semibold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.BodyTight.Small}",
               "fontSize": "{fontSize.Body.Small}",
               "letterSpacing": "{letterSpacing.Body}",
@@ -345,7 +345,7 @@
           "XSmall": {
             "value": {
               "fontFamily": "{fontFamily.Body.Interactive}",
-              "fontWeight": "{fontWeights.Bold}",
+              "fontWeight": "{fontWeight.Body.Interactive}",
               "lineHeight": "{lineHeights.BodyTight.XSmall}",
               "fontSize": "{fontSize.Body.XSmall}",
               "letterSpacing": "{letterSpacing.BodyXSmall}",
@@ -3971,60 +3971,26 @@
           "type": "fontFamilies"
         }
       }
-    }
-  },
-  "font-Brutalist": {
-    "textCase": {
+    },
+    "fontWeight": {
       "Display": {
         "Primary": {
-          "value": "none",
-          "type": "textCase"
+          "value": "{fontWeights.Bold}",
+          "type": "fontWeights"
         },
         "Secondary": {
-          "value": "none",
-          "type": "textCase"
+          "value": "{fontWeights.Regular}",
+          "type": "fontWeights"
         }
       },
       "Body": {
         "Interactive": {
-          "value": "none",
-          "type": "textCase"
+          "value": "{fontWeights.Semibold}",
+          "type": "fontWeights"
         },
         "Non-Interactive": {
-          "value": "none",
-          "type": "textCase"
-        }
-      }
-    },
-    "textDecoration": {
-      "Interactive": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "Non-Interactive": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-    "fontFamily": {
-      "Display": {
-        "Primary": {
-          "value": "Cairo",
-          "type": "fontFamilies"
-        },
-        "Secondary": {
-          "value": "Cairo",
-          "type": "fontFamilies"
-        }
-      },
-      "Body": {
-        "Interactive": {
-          "value": "Cairo",
-          "type": "fontFamilies"
-        },
-        "Non-Interactive": {
-          "value": "Cairo",
-          "type": "fontFamilies"
+          "value": "{fontWeights.Regular}",
+          "type": "fontWeights"
         }
       }
     }
@@ -4224,7 +4190,6 @@
       "breakpoint-Desktop",
       "breakpoint-Mobile",
       "font-Default",
-      "font-Brutalist",
       "radius-Default",
       "depth-Default",
       "depth-Brutalist"
