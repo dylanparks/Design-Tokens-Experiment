@@ -4063,7 +4063,7 @@
       }
     }
   },
-  "depth-Brutalist": {
+  "depth": {
     "Interactive": {
       "Default": {
         "Card": {
@@ -4123,7 +4123,7 @@
           "type": "boxShadow"
         },
         "Element": {
-          "value": "{Shadow.Brutalist.2}",
+          "value": "{Shadow.Brutalist.1}",
           "type": "boxShadow"
         }
       }
@@ -4150,7 +4150,7 @@
       "font-Latin",
       "font-Arabic",
       "radius",
-      "depth-Brutalist"
+      "depth"
     ]
   }
 }
