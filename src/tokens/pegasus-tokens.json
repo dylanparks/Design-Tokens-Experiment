@@ -2975,7 +2975,7 @@
       }
     }
   },
-  "color-Lightmode": {
+  "color-DefaultLight": {
     "Interactive": {
       "Primary": {
         "Active": {
@@ -3322,7 +3322,7 @@
       }
     }
   },
-  "color-Darkmode": {
+  "color-DefaultDark": {
     "Interactive": {
       "Primary": {
         "Active": {
@@ -3917,7 +3917,7 @@
       }
     }
   },
-  "font-Latin": {
+  "font-Default": {
     "textCase": {
       "Display": {
         "Primary": {
@@ -3973,7 +3973,7 @@
       }
     }
   },
-  "font-Arabic": {
+  "font-Brutalist": {
     "textCase": {
       "Display": {
         "Primary": {
@@ -4029,7 +4029,7 @@
       }
     }
   },
-  "radius": {
+  "radius-Default": {
     "radius": {
       "XSmall": {
         "value": "{Base.50}",
@@ -4219,13 +4219,13 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "color-Lightmode",
-      "color-Darkmode",
+      "color-DefaultLight",
+      "color-DefaultDark",
       "breakpoint-Desktop",
       "breakpoint-Mobile",
-      "font-Latin",
-      "font-Arabic",
-      "radius",
+      "font-Default",
+      "font-Brutalist",
+      "radius-Default",
       "depth-Default",
       "depth-Brutalist"
     ]
