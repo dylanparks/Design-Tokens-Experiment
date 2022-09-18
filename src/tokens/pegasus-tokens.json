@@ -4063,7 +4063,83 @@
       }
     }
   },
-  "depth": {
+  "depth-Default": {
+    "Interactive": {
+      "Default": {
+        "Card": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        },
+        "Element": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        }
+      },
+      "Hover": {
+        "Card": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        },
+        "Element": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        }
+      },
+      "Active": {
+        "Card": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        },
+        "Element": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        }
+      },
+      "Focus": {
+        "Card": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        },
+        "Element": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        }
+      },
+      "Disabled": {
+        "Card": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        },
+        "Element": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        }
+      }
+    },
+    "Non-Interactive": {
+      "Default": {
+        "Card": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        },
+        "Element": {
+          "value": "{Shadow.None}",
+          "type": "boxShadow"
+        }
+      }
+    },
+    "shadowColor": {
+      "Default": {
+        "value": "{Neutral.Black}",
+        "type": "color"
+      },
+      "Callout": {
+        "value": "{Neutral.Black}",
+        "type": "color"
+      }
+    }
+  },
+  "depth-Brutalist": {
     "Interactive": {
       "Default": {
         "Card": {
@@ -4150,7 +4226,8 @@
       "font-Latin",
       "font-Arabic",
       "radius",
-      "depth"
+      "depth-Default",
+      "depth-Brutalist"
     ]
   }
 }
