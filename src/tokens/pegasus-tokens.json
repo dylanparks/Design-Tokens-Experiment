@@ -2981,67 +2981,35 @@
         "Active": {
           "value": "{Vivid.Purple.700}",
           "type": "color",
-          "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
+          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Hover": {
           "value": "{Vivid.Purple.600}",
           "type": "color",
-          "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
+          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Default": {
           "value": "{Vivid.Purple.500}",
           "type": "color",
-          "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
+          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Disabled": {
           "value": "{Vivid.Purple.200}",
           "type": "color",
-          "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
+          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Subtle": {
           "value": "{Vivid.Purple.100}",
           "type": "color",
-          "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
+          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         },
         "Offset": {
           "value": "{Vivid.Purple.50}",
           "type": "color",
-          "description": "The highest level of visual hierarchy, used very sparingly for CTAs and primary buttons."
+          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
         }
       },
       "Secondary": {
-        "Active": {
-          "value": "{Vivid.Purple.700}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Hover": {
-          "value": "{Vivid.Purple.600}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Default": {
-          "value": "{Vivid.Purple.500}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Disabled": {
-          "value": "{Vivid.Purple.200}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Subtle": {
-          "value": "{Vivid.Purple.100}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Offset": {
-          "value": "{Vivid.Purple.50}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        }
-      },
-      "Tertiary": {
         "Active": {
           "value": "{Neutral.Slate.900}",
           "type": "color",
@@ -3200,20 +3168,15 @@
           "type": "color",
           "description": "For elements that are overlayed on top of media such as images, video, colors, etc. that do not contain interactivity or states users can engage with."
         },
-        "PrimaryInvert": {
+        "OnPrimary": {
           "value": "{Neutral.Black}",
           "type": "color",
           "description": "Inverted OnMedia states are used for scenarios where the color contrast of the background fill is too low when using the standard Primary OnMedia swatch."
         },
-        "TertiaryInvert": {
+        "OnSecondary": {
           "value": "{Transparent.SolidDark.50}",
           "type": "color",
           "description": "Inverted OnMedia states are used for scenarios where the color contrast of the background fill is too low when using the standard Primary OnMedia swatch."
-        },
-        "DataVisual": {
-          "value": "linear-gradient(180deg, {Neutral.White} 0%, {Neutral.White}00 100%)",
-          "type": "color",
-          "description": "Data Visual - Used on the OnMedia prop overlay option on the line chart under Data Visualization."
         }
       },
       "Callout": {
