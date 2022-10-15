@@ -3016,17 +3016,12 @@
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Hover": {
-          "value": "{Neutral.Slate.800}",
-          "type": "color",
-          "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
-        },
-        "Default": {
           "value": "{Neutral.Slate.700}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
-        "InactiveStrong": {
-          "value": "{Neutral.Slate.500}",
+        "Default": {
+          "value": "{Neutral.Slate.600}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
@@ -3329,54 +3324,17 @@
       },
       "Secondary": {
         "Active": {
-          "value": "{Vivid.Purple.200}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Hover": {
-          "value": "{Vivid.Purple.300}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Default": {
-          "value": "{Vivid.Purple.400}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Disabled": {
-          "value": "{Vivid.Purple.800}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Subtle": {
-          "value": "{Vivid.Purple.800}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        },
-        "Offset": {
-          "value": "{Vivid.Purple.900}",
-          "type": "color",
-          "description": "Used as the primary active input states and secondary actions such as secondary, subtle, and ghost buttons."
-        }
-      },
-      "Tertiary": {
-        "Active": {
           "value": "{Neutral.White}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
         "Hover": {
-          "value": "{Neutral.Slate.200}",
-          "type": "color",
-          "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
-        },
-        "Default": {
           "value": "{Neutral.Slate.300}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
-        "InactiveStrong": {
-          "value": "{Neutral.Slate.500}",
+        "Default": {
+          "value": "{Neutral.Slate.400}",
           "type": "color",
           "description": "Used for interactive elements of the lowest-level of hierarchy. Examples include tabs and inactive inputs."
         },
@@ -3527,11 +3485,6 @@
           "value": "{Transparent.SolidDark.50}",
           "type": "color",
           "description": "Inverted OnMedia states are used for scenarios where the color contrast of the background fill is too low when using the standard Primary OnMedia swatch."
-        },
-        "DataVisual": {
-          "value": "linear-gradient(180deg, {Neutral.White} 0%, {Neutral.White}00 100%)",
-          "type": "color",
-          "description": "Data Visual - Used on the OnMedia prop overlay option on the line chart under Data Visualization."
         }
       },
       "Callout": {
