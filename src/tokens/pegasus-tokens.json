@@ -3603,6 +3603,10 @@
   },
   "style-Default": {
     "radius": {
+      "None": {
+        "value": "0",
+        "type": "borderRadius"
+      },
       "XSmall": {
         "value": "{Base.50}",
         "type": "borderRadius",
